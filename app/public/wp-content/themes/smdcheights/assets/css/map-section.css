@@ -1,0 +1,277 @@
+.map-section {
+    padding: 4rem 2rem;
+    background-color: #F5F7FA;
+}
+
+.map-container {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1600px;
+    margin: 0 auto;
+    gap: 2rem;
+    align-items: stretch;
+    justify-content: space-between;
+}
+
+.map-texts {
+    flex: 1 1 60%;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-around; */
+}
+
+.map-texts-group {
+    display: flex;
+    flex-direction: column;
+    height: 80%;
+    border-left: 4px solid #AE8363;
+}
+
+.map-group-top,
+.map-group-bottom {
+    display: flex;
+    flex-direction: column;
+}
+
+.map-group-bottom {
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 345px;
+}
+
+.map-group-bottom-texts {
+    text-align: right;
+}
+
+.map-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 52px;
+    font-weight: 400;
+    width: 480px;
+    margin-bottom: 1.5rem;
+    color: #000;
+}
+
+.map-description {
+    font-family: 'Figtree', sans-serif;
+    font-size: 24px;
+    width: 720px;
+    color: #0B1427;
+    margin-left: 30px;
+}
+
+.map-count-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 52px;
+    font-weight: 500;
+    color: #AE8363;
+}
+
+.map-count-description {
+    font-family: 'Playfair Display', serif;
+    font-size: 32px;
+    color: #AE8363;
+}
+
+.map-image-wrapper {
+    flex: 1 1 35%;
+    /* text-align: right; */
+}
+
+.interactive-map .cls-1 {
+    fill: #1f3b73;
+    transition:
+        fill 0.3s ease,
+        transform 0.3s ease,
+        filter 0.3s ease;
+    cursor: pointer;
+}
+
+.interactive-map .cls-1:hover {
+    fill: #0B1427;
+    transform: translate(-1px, -3px);
+    filter: drop-shadow(5px 3px 4px rgba(0, 0, 0, 0.8));
+}
+
+/* START OF Map Text Animations */
+
+.map-label {
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.map-label.active {
+    opacity: 1;
+}
+
+.map-label .label-line {
+    width: 0;
+    transition: width 0.3s ease;
+}
+
+.map-label.active .label-line {
+    width: 30px;
+}
+
+.map-label .label-text {
+    opacity: 0;
+    transform: translateX(-10px);
+    transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.map-label.active .label-text {
+    opacity: 1;
+    transform: translateX(0);
+}
+
+/* END OF Map Text Animations */
+
+.skycrapper-img {
+    width: auto;
+    height: 105px;
+    margin: 0 2rem;
+}
+
+.interactive-map svg {
+    width: auto;
+    height: 900px;
+    border-radius: 8px;
+    transform: rotate(9.1deg);
+}
+
+.city-region {
+    fill: #C0C0C0;
+    stroke: #000;
+    stroke-width: 1;
+    transition: fill 0.3s ease;
+    cursor: pointer;
+}
+
+.city-region:hover {
+    fill: #AE8363;
+    /* highlight color on hover */
+}
+
+@media (max-width: 1024px) {
+    .map-description {
+        font-size: 20px;
+        width: 90%;
+    }
+
+    .map-count-title {
+        font-size: 42px;
+    }
+
+    .map-count-description {
+        font-size: 26px;
+    }
+
+    .map-title {
+        font-size: 42px;
+    }
+
+    .interactive-map svg {
+        max-height: 600px;
+    }
+
+    .map-group-bottom {
+        flex-direction: column;
+        align-items: flex-end;
+        margin-top: 2rem;
+    }
+
+    .skycrapper-img {
+        height: 10  0px;
+        margin: 1rem 0;
+    }
+}
+
+@media (max-width: 768px) {
+    .map-section {
+        padding: 3rem 1.5rem;
+    }
+
+    .map-title {
+        font-size: 32px;
+        width: 100%;
+    }
+
+    .map-description {
+        font-size: 18px;
+        width: 100%;
+        margin-left: 0
+    }
+
+    .map-count-title {
+        font-size: 32px;
+    }
+
+    .map-count-description {
+        font-size: 22px;
+    }
+
+    .interactive-map svg {
+        max-height: 600px;
+    }
+
+    .map-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .map-texts-group {
+        border-left: none;
+    }
+
+    .map-group-bottom {
+        align-items: center;
+    }
+
+    .map-texts {
+        width: 100%;
+        text-align: center;
+    }
+
+    .map-image-wrapper {
+        width: 100%;
+        margin-top: 2rem;
+        text-align: center;
+    }
+}
+
+@media (max-width: 480px) {
+    .map-section {
+        padding: 3rem 1rem;
+    }
+
+    .map-title {
+        font-size: 26px;
+        width: 100%;
+    }
+
+    .map-description {
+        font-size: 16px;
+        margin-bottom: 1.5rem;
+        margin-left: 0
+    }
+
+    .map-texts-group {
+        border-left: none;
+    }
+
+    .map-count-title {
+        font-size: 26px;
+    }
+
+    .map-count-description {
+        font-size: 18px;
+    }
+
+    .interactive-map svg {
+        max-height: 600px;
+    }
+
+    .skycrapper-img {
+        margin: 1rem 0;
+    }
+}

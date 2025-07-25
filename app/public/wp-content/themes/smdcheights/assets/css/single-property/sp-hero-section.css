@@ -1,0 +1,130 @@
+.property-hero-section {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.property-hero-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    z-index: 0;
+    background-color: #f5f7fa;
+}
+
+.property-hero-icon {
+    width: 360px;
+    height: auto;
+    object-fit: contain;
+    filter: brightness(0) invert(1);
+    position: absolute;
+    bottom: 4rem;
+    right: 8rem;
+
+}
+
+.property-hero-overlay {
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+#property-information-section,
+#property-map-section,
+#property-frontage-section,
+#property-units-section,
+#property-amenities-section,
+#property-news-section,
+#property-quote-section {
+    scroll-margin-top: 80px;
+}
+
+.sp-properties-filter-wrapper {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 6rem;
+    z-index: 20;
+    background-color: #F5F7FA;
+    padding: 1rem 0;
+}
+
+.sp-properties-filter {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.sp-properties-filter a {
+    color: #0B1427;
+    border: none;
+    cursor: pointer;
+    font-size: 24px;
+    font-family: 'Figtree', sans-serif;
+    font-weight: 300;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.sp-properties-filter a.active {
+    color: #1F3B73;
+    font-weight: 600;
+}
+
+@media (max-width: 1024px) {
+    .property-hero-icon {
+        width: 280px;
+        bottom: 3rem;
+        right: 4rem;
+    }
+
+    .property-hero-image {
+        object-position: -140px;
+    }
+}
+
+@media (max-width: 768px) {
+    .property-hero-section {
+        height: 80vh;
+        margin-top: 60px;
+    }
+
+    .property-hero-icon {
+        width: 200px;
+        bottom: 2rem;
+        right: 2rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .property-hero-section {
+        height: auto;
+    }
+
+    .property-hero-image {
+        position: relative;
+        height: auto;
+        width: 100%;
+        object-fit: contain;
+        object-position: center;
+    }
+
+    .property-hero-overlay {
+        position: absolute;
+        height: 100%;
+        width: 100%;
+    }
+
+    .property-hero-icon {
+        width: 150px;
+        bottom: 1rem;
+        right: 1rem;
+    }
+}

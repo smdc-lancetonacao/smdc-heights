@@ -1,0 +1,160 @@
+.newsp-section {
+    padding: 4rem 2rem;
+    background: #F5F7FA;
+}
+
+.newsp-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    max-width: 1600px;
+    margin: 0 auto;
+    gap: 2.5rem;
+    align-items: stretch;
+    justify-content: space-between;
+}
+
+.newsp-texts {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.newsp-title {
+    font-size: 52px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 500;
+    margin-bottom: 1rem;
+    color: #0B1427;
+}
+
+.newsp-title span {
+    color: #1F3B73;
+}
+
+.newsp-description {
+    font-size: 24px;
+    font-family: 'Figtree', sans-serif;
+    font-weight: 400;
+    color: #0B1427;
+    text-align: center;
+    width: 70%;
+}
+
+/* --- News Grid and Cards --- */
+.newsp-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 5rem;
+    justify-content: center;
+}
+
+.newsp-card {
+    width: 480px;
+    height: 705px;
+    background-color: #F0E7E2;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+    transition: transform 0.2s ease;
+    display: flex;
+    flex-direction: column;
+}
+
+.newsp-card:hover {
+    transform: translateY(-4px);
+}
+
+.newsp-card-link {
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.newsp-thumb img {
+    width: 100%;
+    height: 318px;
+    object-fit: cover;
+    display: block;
+}
+
+.newsp-info {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 1.5rem;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+.newsp-info > div {
+    flex-grow: 1;
+}
+
+.newsp-date {
+    font-size: 16px;
+    font-family: 'Figtree', sans-serif;
+    font-weight: 300;
+    color: #0B1427;
+    margin-bottom: 0.75rem;
+    text-transform: uppercase;
+}
+
+.newsp-info h3 {
+    font-size: 28px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 550;
+    margin-bottom: 0.5rem;
+    color: #0B1427;
+}
+
+.newsp-subtitle {
+    font-style: italic;
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    color: #0B1427;
+    font-size: 24px;
+    margin-bottom: 0.75rem;
+}
+
+.newsp-subdesc {
+    font-family: 'Figtree', sans-serif;
+    font-size: 20px;
+    color: #0B1427;
+    margin-bottom: 1.5rem;
+}
+
+.newsp-read-more {
+    align-self: flex-start;
+    background-color: #1F3B73;
+    color: #D8BFAA;
+    padding: 1rem 2rem;
+    font-family: 'Figtree', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.newsp-read-more:hover {
+    background-color: #0B1427;
+}
+
+@media (max-width: 1024px) {
+    .newsp-grid {
+        grid-template-columns: repeat(2, 1fr);
+        justify-items: start; /* ensures 3rd card stays left-aligned */
+    }
+}
+
+@media (max-width: 767px) {
+    .newsp-grid {
+        grid-template-columns: 1fr;
+        justify-items: center;
+    }
+}

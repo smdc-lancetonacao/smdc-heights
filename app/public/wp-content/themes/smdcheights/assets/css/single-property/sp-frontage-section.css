@@ -1,0 +1,119 @@
+.property-frontage-section {
+    padding: 4rem 2rem;
+    background-color: #F5F7FA;
+}
+
+.property-frontage-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 1600px;
+    margin: 0 auto;
+    align-items: stretch;
+    justify-content: space-between;
+    gap: 2rem;
+}
+
+.frontage-left {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.frontage-left-header div {
+    display: flex;
+    margin-top: 2rem;
+    column-gap: 1.5rem;
+}
+
+.frontage-header-title {
+    font-size: 52px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 500;
+    margin-bottom: 1rem;
+    color: #1F3B73;
+    font-weight: 600;
+}
+
+.frontage-header-description {
+    font-size: 24px;
+    font-family: 'Figtree', sans-serif;
+    font-weight: 400;
+    color: #0B1427;
+}
+
+.frontage-left-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.frontage-left-buttons > hr {
+    width: 100%;
+    border: none;
+    border-top: 4px solid #D8BFAA;
+}
+
+.frontage-left-buttons > div{
+    display: flex;
+    gap: 2rem;
+}
+
+.frontage-previous-btn, .frontage-next-btn {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+}
+
+.frontage-previous-btn img, .frontage-next-btn img{
+    width: 24px;
+}
+
+.frontage-link-btn {
+    display: flex;
+    justify-content: center;
+    width: 240px;
+
+    font-family: 'Figtree', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    padding: 1.25rem 0;
+    
+    color: #D8BFAA;
+    text-decoration: none;
+    border: #D8BFAA 2px solid;
+    border-radius: 4px;
+}
+
+.frontage-right {
+    flex: 1;
+}
+
+.frontage-gallery {
+    position: relative;
+    overflow: hidden;
+    width: 1040px; /* Fixed to match image width */
+    margin: 0 auto; /* Center horizontally */
+}
+
+.carousel-track {
+    display: flex;
+    transition: transform 0.5s ease;
+    width: max-content;
+}
+
+.gallery-item {
+    flex-shrink: 0;
+    width: 1040px; /* Fix the width */
+    text-align: center;
+}
+
+.frontage-images {
+    width: 1040px;
+    height: 920px;
+    object-fit: cover;
+}
+

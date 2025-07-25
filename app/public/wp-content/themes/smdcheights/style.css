@@ -1,0 +1,23 @@
+/*
+    Theme Name: SMDC Heights
+    Author: Lancelot Tonacao
+    Description: (MRB) Heights Theme for SMDC
+    version:1.3
+*/
+
+@font-face {
+    font-family: 'Figtree';
+    src: url('./assets/fonts/Figtree.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'PlayfairDisplay';
+    src: url('./assets/fonts/PlayfairDisplay.ttf') format('truetype');
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'heightsTitle', sans-serif;
+    box-sizing: border-box;
+}

@@ -1,0 +1,72 @@
+.bedroom-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3rem;
+    justify-content: space-between;
+}
+
+.bedroom-carousel-section {
+    width: 760px;
+    flex-shrink: 0;
+}
+
+.bedroom-carousel-section {}
+
+.bedroom-carousel-container {
+    position: relative;
+    overflow: hidden;
+    max-width: 1040px;
+    margin: 0 auto;
+}
+
+.bedroom-carousel-track {
+    display: flex;
+    transition: transform 0.5s ease;
+    width: max-content;
+}
+
+.bedroom-gallery-item {
+    flex-shrink: 0;
+    text-align: center;
+}
+
+.bedroom-image {
+    width: 760px;
+    height: 640px;
+    object-fit: cover;
+}
+
+.bedroom-title {
+    font-family: 'Playfair Display', serif;
+    font-weight: 600;
+    font-size: 40px;
+    margin-top: 2rem;
+}
+
+.bedroom-description {
+    font-family: 'Figtree', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: #0B1427;
+    margin-top: 1rem;
+    max-width: 760px;
+}
+
+.bedroom-nav {
+    display: flex;
+    margin-top: 1rem;
+    gap: 1.5rem;
+}
+
+.bedroom-prev-btn,
+.bedroom-next-btn {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+}
+
+.bedroom-prev-btn img,
+.bedroom-next-btn img {
+    width: 24px;
+}

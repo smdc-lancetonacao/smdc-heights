@@ -1,0 +1,271 @@
+0000.002 (0) Opened log file at time: Mon, 21 Jul 2025 01:59:12 +0000 on http://localhost:10028
+0000.004 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.6 WP: 6.8.2 PHP: 8.2.27 (cgi-fcgi, Windows NT 000D20220241 10.0 build 26100 (Windows 11) AMD64) MySQL: 8.0.35 (max packet size=16777216) WPLANG: en_US Server: nginx/1.26.1 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 4.7M | 6M) multisite: N openssl: OpenSSL 3.0.15 3 Sep 2024 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: Y
+0000.006 (0) Free space on disk containing Updraft's temporary directory: 311117.3 MB
+0000.011 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.015 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.020 (0) Set semaphore last lock (fd) time to 2025-07-21 01:59:12
+0000.021 (0) Semaphore lock (fd) complete
+0000.026 (0) Backup run: resumption=0, nonce=ef1be41f616e, file_nonce=ef1be41f616e begun at=1753063152 (0s ago), job type=backup
+0000.029 (0) Scheduling a resumption (1) after 300 seconds (1753063452) in case this run gets aborted
+0000.035 (0) Checking if we have a zip executable available
+0000.039 (0) Creation of backups of directories: beginning
+0000.050 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0002.359 (0) Total entities for the zip file: 299 directories, 2149 files (0 skipped as non-modified), 49.2 MB
+0002.536 (0) Zip: backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0002.704 (0) Zip: backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0002.874 (0) Zip: backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0003.036 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.6 MB, 399 (399) files added so far); re-opening (prior size: 0 KB)
+0003.563 (0) Zip: backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-plugins.zip.tmp: 400 files added (on-disk size: 2017.5 KB)
+0003.719 (0) Zip: backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-plugins.zip.tmp: 500 files added (on-disk size: 2017.5 KB)
+0003.882 (0) Zip: backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-plugins.zip.tmp: 600 files added (on-disk size: 2017.5 KB)
+0004.042 (0) Zip: backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-plugins.zip.tmp: 700 files added (on-disk size: 2017.5 KB)
+0004.219 (0) Zip: backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-plugins.zip.tmp: 800 files added (on-disk size: 2017.5 KB)
+0004.404 (0) Zip: backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-plugins.zip.tmp: 900 files added (on-disk size: 2017.5 KB)
+0004.576 (0) Zip: backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-plugins.zip.tmp: 1000 files added (on-disk size: 2017.5 KB)
+0004.754 (0) Zip: backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-plugins.zip.tmp: 1100 files added (on-disk size: 2017.5 KB)
+0004.934 (0) Zip: backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-plugins.zip.tmp: 1200 files added (on-disk size: 2017.5 KB)
+0004.979 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.1 MB, 2149 files batched, 825 (1224) added so far); re-opening (prior size: 2017.5 KB)
+0007.055 (0) A useful amount of data was added after this amount of zip processing: 4 s (normalised: 4 s, rate: 6406.2 KB/s)
+0007.058 (0) Performance is good - will increase the amount of data we attempt to batch (time=4.0191988945007, normalised_time=3.9960985837105, max_time=7.0548350811005, data points known=1, old_max_bytes=26214400, new_max_bytes=39359989)
+0007.205 (0) Zip: backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-plugins.zip.tmp: 1300 files added (on-disk size: 9153.6 KB)
+0007.400 (0) Zip: backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-plugins.zip.tmp: 1400 files added (on-disk size: 9153.6 KB)
+0007.597 (0) Zip: backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-plugins.zip.tmp: 1500 files added (on-disk size: 9153.6 KB)
+0007.799 (0) Zip: backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-plugins.zip.tmp: 1600 files added (on-disk size: 9153.6 KB)
+0007.977 (0) Zip: backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-plugins.zip.tmp: 1700 files added (on-disk size: 9153.6 KB)
+0008.139 (0) Zip: backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-plugins.zip.tmp: 1800 files added (on-disk size: 9153.6 KB)
+0008.308 (0) Zip: backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-plugins.zip.tmp: 1900 files added (on-disk size: 9153.6 KB)
+0008.473 (0) Zip: backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-plugins.zip.tmp: 2000 files added (on-disk size: 9153.6 KB)
+0008.643 (0) Zip: backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-plugins.zip.tmp: 2100 files added (on-disk size: 9153.6 KB)
+0010.590 (0) Creating zip file manifest (backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-plugins.zip.list-temp.tmp)
+0010.607 (0) Successfully created zip file manifest (size: 182111)
+0010.733 (0) Created plugins zip (0) - 14422.6 KB in 10.7 s (1350.9 KB/s) (sha1: 83569f3c0b9398ea6362df7528642a41b67dd42d, sha256: 280df57f16fdcbaadc80d20dffb8c2ddc2a4d64d0c97679067be1bccbcbab968)
+0010.748 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0010.750 (0) No remote despatch: user chose no remote backup service
+0010.752 (0) Recording as successfully uploaded: backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-plugins.zip
+0010.755 (0) Deleting zip manifest (backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-plugins.zip.list.tmp)
+0010.761 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0010.762 (0) Number of backup sets in history: 1; groups (db): 1
+0010.764 (0) Examining (for databases) backup set with group_id=0, nonce=2e698e93dd41, datestamp=1752632146 (Jul 16 2025 02:15:46)
+0010.765 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0010.767 (0) Number of backup sets in history: 1; groups (files): 1
+0010.769 (0) Examining (for files) backup set with nonce=2e698e93dd41, datestamp=1752632146 (Jul 16 2025 02:15:46)
+0010.769 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0010.770 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0010.778 (0) Beginning creation of dump of themes (split every: 400 MB)
+0010.982 (0) Total entities for the zip file: 44 directories, 176 files (0 skipped as non-modified), 30.7 MB
+0011.114 (0) Zip: backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0011.672 (0) Creating zip file manifest (backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-themes.zip.list-temp.tmp)
+0011.682 (0) Successfully created zip file manifest (size: 11102)
+0011.933 (0) Created themes zip (0) - 30650.6 KB in 1.1 s (26674.5 KB/s) (sha1: 084739a6398638c36c398f7d3f8921d2fe6ae159, sha256: 3a912e6949bb754ace1b21eb7e7e571e26f03b1ba186a735678263743fd4400d)
+0011.944 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0011.947 (0) No remote despatch: user chose no remote backup service
+0011.949 (0) Recording as successfully uploaded: backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-themes.zip
+0011.952 (0) Deleting zip manifest (backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-themes.zip.list.tmp)
+0011.959 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0011.961 (0) Number of backup sets in history: 1; groups (db): 1
+0011.963 (0) Examining (for databases) backup set with group_id=0, nonce=2e698e93dd41, datestamp=1752632146 (Jul 16 2025 02:15:46)
+0011.963 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0011.966 (0) Number of backup sets in history: 1; groups (files): 1
+0011.968 (0) Examining (for files) backup set with nonce=2e698e93dd41, datestamp=1752632146 (Jul 16 2025 02:15:46)
+0011.968 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0011.969 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0011.978 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0011.979 (0) Looking for candidates to backup in: C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/uploads
+0011.982 (0) finding files: 2025: adding to list (1)
+0011.983 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0012.306 (0) Total entities for the zip file: 3 directories, 302 files (0 skipped as non-modified), 401.5 MB
+0012.328 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 37.5 MB added on this batch (41.4 MB, 302 files batched, 9 (9) added so far); re-opening (prior size: 0 KB)
+0012.464 (0) A useful amount of data was added after this amount of zip processing: 1.4 s (normalised: 1.3 s, rate: 29661.1 KB/s)
+0012.468 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.428927898407, normalised_time=1.2958891664591, max_time=12.464542150497, data points known=1, old_max_bytes=39359989, new_max_bytes=209715200)
+0012.624 (0) Zip: backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-uploads.zip.tmp: 100 files added (on-disk size: 42385.1 KB)
+0012.740 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 200 MB added on this batch (200.3 MB, 302 files batched, 163 (172) added so far); re-opening (prior size: 42385.1 KB)
+0013.736 (0) A useful amount of data was added after this amount of zip processing: 1.7 s (normalised: 1.7 s, rate: 120650.4 KB/s)
+0013.738 (0) Performance is good - but we will not increase the amount of data we batch, as we are already at the present limit (time=1.7002460956573, normalised_time=1.6974657479197, max_time=13.735980987549, data points known=1, max_bytes=209715200)
+0013.807 (0) Zip: backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-uploads.zip.tmp: 200 files added (on-disk size: 247545.3 KB)
+0014.042 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): possibly approaching split limit (149.3 MB, 106 (278) files added so far); last ratio: 1; re-opening (prior size: 247545.3 KB)
+0015.199 (0) Zip size is at/near split limit (391 MB / 400 MB) - bumping index (from: 0)
+0018.384 (0) Creating zip file manifest (backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-uploads.zip.list-temp.tmp)
+0018.395 (0) Successfully created zip file manifest (size: 14385)
+0018.405 (0) Created uploads zip (0) - 400419.3 KB in 3.2 s (124524.2 KB/s) (checksums: sha1: 6e9adc842dcd2519a5b2d1d3d96b2f715bdab560, sha256: 72d5188e5070b4c9689448bb3ae1fa87d7cd9ed8cad58123ff929199439e6b8d)
+0018.428 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0018.430 (0) No remote despatch: user chose no remote backup service
+0018.432 (0) Recording as successfully uploaded: backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-uploads.zip
+0018.436 (0) Deleting zip manifest (backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-uploads.zip.list.tmp)
+0018.445 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0018.448 (0) Number of backup sets in history: 1; groups (db): 1
+0018.451 (0) Examining (for databases) backup set with group_id=0, nonce=2e698e93dd41, datestamp=1752632146 (Jul 16 2025 02:15:46)
+0018.453 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0018.455 (0) Number of backup sets in history: 1; groups (files): 1
+0018.458 (0) Examining (for files) backup set with nonce=2e698e93dd41, datestamp=1752632146 (Jul 16 2025 02:15:46)
+0018.458 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0018.461 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0018.482 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 1 (279) files added so far); re-opening (prior size: 0 KB)
+0018.557 (0) Zip: backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-uploads2.zip.tmp: 300 files added (on-disk size: 1440.7 KB)
+0018.631 (0) Creating zip file manifest (backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-uploads2.zip.list-temp.tmp)
+0018.641 (0) Successfully created zip file manifest (size: 1379)
+0018.753 (0) Created uploads zip (1) - 10807.5 KB in 0.3 s (31388.1 KB/s) (sha1: 5bd992d8411ccd8ada338e61f94078d9e561443d, sha256: 26f9d52478fdcfa1d4c9464d800eb2921ab4adee2a2c66362cf0dc35743a2c15)
+0018.769 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0018.771 (0) No remote despatch: user chose no remote backup service
+0018.773 (0) Recording as successfully uploaded: backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-uploads2.zip
+0018.776 (0) Deleting zip manifest (backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-uploads2.zip.list.tmp)
+0018.784 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0018.787 (0) Number of backup sets in history: 1; groups (db): 1
+0018.789 (0) Examining (for databases) backup set with group_id=0, nonce=2e698e93dd41, datestamp=1752632146 (Jul 16 2025 02:15:46)
+0018.789 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0018.791 (0) Number of backup sets in history: 1; groups (files): 1
+0018.793 (0) Examining (for files) backup set with nonce=2e698e93dd41, datestamp=1752632146 (Jul 16 2025 02:15:46)
+0018.793 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0018.795 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0018.806 (0) No backup of mu-plugins: excluded by user's options
+0018.810 (0) Beginning backup of other directories found in the content directory (index: 0)
+0018.812 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0018.816 (0) Looking for candidates to backup in: C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content
+0018.818 (0) finding files: index.php: adding to list (1)
+0018.820 (0) finding files: plugins: skipping: this is the plugins directory
+0018.822 (0) finding files: themes: skipping: this is the themes directory
+0018.824 (0) finding files: updraft: skipping: this is the updraft directory
+0018.825 (0) finding files: upgrade: skipping: excluded by options
+0018.827 (0) finding files: uploads: skipping: this is the uploads directory
+0018.841 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0018.872 (0) Creating zip file manifest (backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-others.zip.list-temp.tmp)
+0018.878 (0) Successfully created zip file manifest (size: 43)
+0018.899 (0) Created others zip (0) - 0.1 KB in 0.1 s (2.3 KB/s) (sha1: 3b4ccd002994170d05f2d6bf889290b0a80fab0c, sha256: 4d4a1f2309fa7012c7b981827bf67de1799d78621910702b50c674a3c9036aba)
+0018.910 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0018.911 (0) No remote despatch: user chose no remote backup service
+0018.913 (0) Recording as successfully uploaded: backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-others.zip
+0018.918 (0) Deleting zip manifest (backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-others.zip.list.tmp)
+0018.924 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0018.927 (0) Number of backup sets in history: 1; groups (db): 1
+0018.928 (0) Examining (for databases) backup set with group_id=0, nonce=2e698e93dd41, datestamp=1752632146 (Jul 16 2025 02:15:46)
+0018.928 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0018.930 (0) Number of backup sets in history: 1; groups (files): 1
+0018.933 (0) Examining (for files) backup set with nonce=2e698e93dd41, datestamp=1752632146 (Jul 16 2025 02:15:46)
+0018.933 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0018.934 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0018.954 (0) Saving backup status to database (elements: 9)
+0018.958 (0) Beginning creation of database dump (WordPress DB)
+0018.960 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+0019.003 (0) Table wp_options: Total expected rows (via COUNT): 381
+0019.005 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0019.020 (0) Table wp_options: Rows added in this batch (next record: 3928): 377 (uncompressed bytes in this segment=382722) in 0.02 seconds
+0019.076 (0) Table wp_options: finishing file(s) (2, 50 KB)
+0019.089 (0) Table wp_users: Total expected rows (via COUNT): 1
+0019.091 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0019.099 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1412) in 0.01 seconds
+0019.131 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0019.147 (0) Table wp_usermeta: Total expected rows (via COUNT): 31
+0019.149 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0019.154 (0) Table wp_usermeta: Rows added in this batch (next record: 31): 31 (uncompressed bytes in this segment=3476) in 0.01 seconds
+0019.190 (0) Table wp_usermeta: finishing file(s) (2, 1.6 KB)
+0019.202 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0019.205 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=677) in 0.01 seconds
+0019.229 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0019.240 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0019.241 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0019.246 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2118) in 0.01 seconds
+0019.272 (0) Table wp_comments: finishing file(s) (2, 0.7 KB)
+0019.280 (0) Table wp_links: Total expected rows (via COUNT): 0
+0019.284 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1298) in 0.01 seconds
+0019.308 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0019.321 (0) Table wp_postmeta: Total expected rows (approximate): 1813
+0019.335 (0) Table wp_postmeta: Rows added in this batch (next record: 2069): 1856 (uncompressed bytes in this segment=185573) in 0.02 seconds
+0019.379 (0) Table wp_postmeta: finishing file(s) (2, 25.3 KB)
+0019.394 (0) Table wp_posts: Total expected rows (via COUNT): 220
+0019.396 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0019.406 (0) Table wp_posts: Rows added in this batch (next record: 251): 220 (uncompressed bytes in this segment=108508) in 0.02 seconds
+0019.448 (0) Table wp_posts: finishing file(s) (2, 14.6 KB)
+0019.457 (0) Table wp_term_relationships: Total expected rows (approximate): 22
+0019.461 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 22 (uncompressed bytes in this segment=975) in 0.01 seconds
+0019.487 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0019.501 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 9
+0019.504 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0019.511 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 9): 9 (uncompressed bytes in this segment=1209) in 0.02 seconds
+0019.543 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0019.560 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0019.565 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=650) in 0.01 seconds
+0019.596 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0019.607 (0) Table wp_terms: Total expected rows (via COUNT): 9
+0019.610 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0019.615 (0) Table wp_terms: Rows added in this batch (next record: 9): 9 (uncompressed bytes in this segment=1029) in 0.01 seconds
+0019.640 (0) Table wp_terms: finishing file(s) (2, 0.5 KB)
+0019.649 (0) Table wp_litespeed_url: Total expected rows (via COUNT): 0
+0019.654 (0) Table wp_litespeed_url: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=635) in 0.01 seconds
+0019.681 (0) Table wp_litespeed_url: finishing file(s) (2, 0.4 KB)
+0019.690 (0) Table wp_litespeed_url_file: Total expected rows (via COUNT): 0
+0019.692 (0) Table wp_litespeed_url_file: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1090) in 0.00 seconds
+0019.716 (0) Table wp_litespeed_url_file: finishing file(s) (2, 0.5 KB)
+0019.728 (0) Table wp_quote_requests: Total expected rows (via COUNT): 2
+0019.730 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0019.734 (0) Table wp_quote_requests: Rows added in this batch (next record: 3): 2 (uncompressed bytes in this segment=1274) in 0.01 seconds
+0019.757 (0) Table wp_quote_requests: finishing file(s) (2, 0.5 KB)
+0019.768 (0) Table wp_social_links: Total expected rows (via COUNT): 0
+0019.772 (0) Table wp_social_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=615) in 0.01 seconds
+0019.800 (0) Table wp_social_links: finishing file(s) (2, 0.3 KB)
+0019.802 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/updraft/backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db.gz (line 1923, C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\plugins\updraftplus\backup.php)
+0019.815 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db-table-wp_options.table.tmpr3929.gz (1/16/fopen): adding to final database dump
+0019.849 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db-table-wp_options.table.gz (2/16/fopen): adding to final database dump
+0019.853 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db-table-wp_users.table.tmpr2.gz (3/16/fopen): adding to final database dump
+0019.864 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db-table-wp_users.table.gz (4/16/fopen): adding to final database dump
+0019.867 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db-table-wp_usermeta.table.tmpr32.gz (5/16/fopen): adding to final database dump
+0019.877 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db-table-wp_usermeta.table.gz (6/16/fopen): adding to final database dump
+0019.881 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db-table-wp_commentmeta.table.tmpr0.gz (7/16/fopen): adding to final database dump
+0019.889 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db-table-wp_commentmeta.table.gz (8/16/fopen): adding to final database dump
+0019.891 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db-table-wp_comments.table.tmpr2.gz (9/16/fopen): adding to final database dump
+0019.901 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db-table-wp_comments.table.gz (10/16/fopen): adding to final database dump
+0019.903 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db-table-wp_links.table.tmpr0.gz (11/16/fopen): adding to final database dump
+0019.913 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db-table-wp_links.table.gz (12/16/fopen): adding to final database dump
+0019.916 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db-table-wp_postmeta.table.tmpr2070.gz (13/16/fopen): adding to final database dump
+0019.940 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db-table-wp_postmeta.table.gz (14/16/fopen): adding to final database dump
+0019.943 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db-table-wp_posts.table.tmpr252.gz (15/16/fopen): adding to final database dump
+0019.966 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db-table-wp_posts.table.gz (16/16/fopen): adding to final database dump
+0019.969 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db-table-wp_term_relationships.table.tmpr100001.gz (17/16/fopen): adding to final database dump
+0019.976 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db-table-wp_term_relationships.table.gz (18/16/fopen): adding to final database dump
+0019.979 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db-table-wp_term_taxonomy.table.tmpr10.gz (19/16/fopen): adding to final database dump
+0019.990 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db-table-wp_term_taxonomy.table.gz (20/16/fopen): adding to final database dump
+0019.993 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db-table-wp_termmeta.table.tmpr0.gz (21/16/fopen): adding to final database dump
+0020.003 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db-table-wp_termmeta.table.gz (22/16/fopen): adding to final database dump
+0020.005 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db-table-wp_terms.table.tmpr10.gz (23/16/fopen): adding to final database dump
+0020.012 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db-table-wp_terms.table.gz (24/16/fopen): adding to final database dump
+0020.015 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db-table-wp_litespeed_url.table.tmpr0.gz (25/16/fopen): adding to final database dump
+0020.022 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db-table-wp_litespeed_url.table.gz (26/16/fopen): adding to final database dump
+0020.024 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db-table-wp_litespeed_url_file.table.tmpr0.gz (27/16/fopen): adding to final database dump
+0020.032 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db-table-wp_litespeed_url_file.table.gz (28/16/fopen): adding to final database dump
+0020.034 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db-table-wp_quote_requests.table.tmpr4.gz (29/16/fopen): adding to final database dump
+0020.042 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db-table-wp_quote_requests.table.gz (30/16/fopen): adding to final database dump
+0020.045 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db-table-wp_social_links.table.tmpr0.gz (31/16/fopen): adding to final database dump
+0020.052 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db-table-wp_social_links.table.gz (32/16/fopen): adding to final database dump
+0020.066 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db.gz: finished writing out complete database file (97.6 KB)
+0020.146 (0) Total database tables backed up: 16 (backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db.gz, size: 100016, sha1: d6bcc31a0575b6dcb2a964d1d2baa1b02cc2f9c9, sha256: 92f214d9a8015d7d30448624d2dfec24cc6f83ba115d358529a4696aa2103fc6)
+0020.157 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-plugins.zip: plugins: This file has already been successfully processed
+0020.158 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-themes.zip: themes: This file has already been successfully processed
+0020.159 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-uploads.zip: uploads: This file has already been successfully processed
+0020.161 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-uploads2.zip: uploads: This file has already been successfully processed
+0020.162 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-others.zip: others: This file has already been successfully processed
+0020.165 (0) backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db.gz: db: This file has not yet been successfully uploaded: will queue
+0020.166 (0) Saving backup history. Total backup size: 445.7 MB
+0020.171 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0020.175 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0020.177 (0) No remote despatch: user chose no remote backup service
+0020.178 (0) Recording as successfully uploaded: backup_2025-07-21-0159_SMDC_Heights_ef1be41f616e-db.gz
+0020.184 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0020.186 (0) Number of backup sets in history: 2; groups (db): 1
+0020.187 (0) Examining (for databases) backup set with group_id=0, nonce=ef1be41f616e, datestamp=1753063152 (Jul 21 2025 01:59:12)
+0020.187 (0) This backup set is the backup set just made, so will not be deleted.
+0020.187 (0) Examining (for databases) backup set with group_id=0, nonce=2e698e93dd41, datestamp=1752632146 (Jul 16 2025 02:15:46)
+0020.187 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0020.188 (0) Number of backup sets in history: 2; groups (files): 1
+0020.189 (0) Examining (for files) backup set with nonce=ef1be41f616e, datestamp=1753063152 (Jul 21 2025 01:59:12)
+0020.189 (0) This backup set is the backup set just made, so will not be deleted.
+0020.190 (0) This backup set is the backup set just made, so will not be deleted.
+0020.191 (0) This backup set is the backup set just made, so will not be deleted.
+0020.191 (0) This backup set is the backup set just made, so will not be deleted.
+0020.191 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0020.192 (0) Examining (for files) backup set with nonce=2e698e93dd41, datestamp=1752632146 (Jul 16 2025 02:15:46)
+0020.192 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0020.192 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0020.197 (0) Resume backup (ef1be41f616e, 0): finish run
+0020.202 (0) Decremented the semaphore (fd) by 1
+0020.205 (0) Semaphore (fd) unlocked
+0020.207 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0020.214 (0) No email will/can be sent - the user has not configured an email address.
+0020.215 (0) The backup succeeded and is now complete

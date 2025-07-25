@@ -1,0 +1,52 @@
+.property-map-section {
+    padding: 4rem 2rem;
+    background-color: #F5F7FA;
+}
+
+.property-map-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    max-width: 1600px;
+    margin: 0 auto;
+    gap: 3rem;
+    align-items: stretch;
+    justify-content: space-between;
+}
+
+.map-location-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.property-location-map-image {
+    width: 100%;
+    height: 644px;
+    border-radius: 4px;
+    object-fit: cover;
+}
+
+.map-links-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 1.5rem;
+}
+
+.map-link-btn {
+    display: flex;
+    justify-content: center;
+    width: 290px;
+
+    font-family: 'Figtree', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    padding: 1.25rem 0;
+    
+    color: #D8BFAA;
+    text-decoration: none;
+    border: #D8BFAA 2px solid;
+    border-radius: 4px;
+}

@@ -1,0 +1,258 @@
+.quote-section {
+    padding: 4rem 2rem;
+    background: #F5F7FA;
+}
+
+.quote-container {
+    max-width: 1600px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.quote-form-box {
+    flex: 1;
+    min-width: 380px;
+    max-width: 620px;
+}
+
+.quote-form-box h2 {
+    font-size: 52px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 500;
+    margin-bottom: 1rem;
+    color: #0B1427;
+}
+
+.quote-form-box h2 span {
+    color: #1F3B73;
+    font-weight: 600;
+}
+
+.quote-form-box p {
+    font-size: 24px;
+    font-family: 'Figtree', sans-serif;
+    font-weight: 400;
+    color: #0B1427;
+    margin-bottom: 2rem;
+}
+
+.quote-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.quote-form label {
+    display: block;
+    font-weight: 300;
+    font-family: 'Figtree', sans-serif;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #0B1427;
+}
+
+.quote-form-row {
+    display: flex;
+    gap: 1rem;
+}
+
+.quote-form-row div {
+    display: flex;
+}
+
+.quote-form-group {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    gap: 1rem;
+}
+
+.quote-form input,
+.quote-form select {
+    flex: 1;
+    padding: 0.75rem;
+    border: none;
+    border-radius: 4px;
+    background: #F3E8DE;
+    font-size: 16px;
+    font-family: 'Figtree', sans-serif;
+    color: #333;
+}
+
+.quote-form button {
+    background-color: #1F3B73;
+    color: #D8BFAA;
+    padding: 1rem 2rem;
+    font-family: 'Figtree', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 1rem;
+    width: fit-content;
+}
+
+.quote-form button:hover {
+    background-color: #0B1427;
+}
+
+.quote-image-box img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+.quote-image-box img {
+    width: 940px;
+    height: 900px;
+    border-radius: 4px;
+    object-fit: cover;
+}
+
+select {
+    border-right: 10px solid transparent !important;
+}
+
+/* Modal Styling */
+#quote-success-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.6);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+}
+
+#quote-success-modal.show {
+    display: flex;
+}
+
+.quote-modal-content {
+    background: #fff;
+    padding: 2rem;
+    border-radius: 8px;
+    text-align: center;
+    max-width: 400px;
+    font-family: 'Figtree', sans-serif;
+}
+
+#close-quote-modal {
+    margin-top: 1rem;
+    display: inline-block;
+    background: #1F3B73;
+    color: #fff;
+    padding: 0.5rem 1.25rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+@media (max-width: 1024px) {
+    .quote-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .quote-form-box {
+        max-width: 100%;
+    }
+
+    .quote-form-box h2 {
+        font-size: 42px;
+    }
+
+    .quote-form-box p {
+        font-size: 20px;
+    }
+
+    .quote-image-box img {
+        width: 100%;
+        height: auto;
+        max-height: 600px;
+    }
+
+    .quote-form button {
+        font-size: 18px;
+        padding: 0.9rem 2rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .quote-section {
+        padding: 3rem 1.5rem;
+    }
+
+    .quote-form-box h2 {
+        font-size: 32px;
+    }
+
+    .quote-form-box p {
+        font-size: 18px;
+    }
+
+    .quote-form-row {
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .quote-form button {
+        font-size: 16px;
+        padding: 0.8rem 1.8rem;
+    }
+
+    .quote-modal-content {
+        padding: 1.5rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .quote-section {
+        padding: 3rem 1rem;
+    }
+
+    .quote-form-box h2 {
+        font-size: 26px;
+    }
+
+    .quote-form-box p {
+        font-size: 16px;
+    }
+
+    .quote-form label {
+        font-size: 14px;
+    }
+
+    .quote-form input,
+    .quote-form select {
+        font-size: 14px;
+    }
+
+    .quote-form button {
+        font-size: 14px;
+        padding: 0.75rem 1.5rem;
+    }
+
+    .quote-image-box img {
+        max-height: 360px;
+    }
+
+    .quote-modal-content {
+        max-width: 90%;
+        font-size: 14px;
+    }
+
+    #close-quote-modal {
+        font-size: 13px;
+        padding: 0.5rem 1rem;
+    }
+}

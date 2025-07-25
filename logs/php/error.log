@@ -1,0 +1,1083 @@
+[24-Jun-2025 05:42:50 UTC] PHP Warning:  require(C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/inc/template-tags.php): Failed to open stream: No such file or directory in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 103
+[24-Jun-2025 05:42:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/inc/template-tags.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php:103
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-settings.php(695): include()
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php(103): require_once('C:\\Users\\lance....')
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-load.php(50): require_once('C:\\Users\\lance....')
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(13): require_once('C:\\Users\\lance....')
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#5 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 103
+[24-Jun-2025 05:42:50 UTC] PHP Warning:  require(C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/inc/template-tags.php): Failed to open stream: No such file or directory in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 103
+[24-Jun-2025 05:42:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/inc/template-tags.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php:103
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-settings.php(695): include()
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php(103): require_once('C:\\Users\\lance....')
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-load.php(50): require_once('C:\\Users\\lance....')
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(13): require_once('C:\\Users\\lance....')
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#5 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 103
+[24-Jun-2025 05:42:56 UTC] PHP Warning:  require(C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/inc/template-tags.php): Failed to open stream: No such file or directory in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 87
+[24-Jun-2025 05:42:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/inc/template-tags.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php:87
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-settings.php(695): include()
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php(103): require_once('C:\\Users\\lance....')
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-load.php(50): require_once('C:\\Users\\lance....')
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(13): require_once('C:\\Users\\lance....')
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#5 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 87
+[24-Jun-2025 05:42:56 UTC] PHP Warning:  require(C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/inc/template-tags.php): Failed to open stream: No such file or directory in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 87
+[24-Jun-2025 05:42:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/inc/template-tags.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php:87
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-settings.php(695): include()
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php(103): require_once('C:\\Users\\lance....')
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-load.php(50): require_once('C:\\Users\\lance....')
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(13): require_once('C:\\Users\\lance....')
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#5 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 87
+[24-Jun-2025 05:43:01 UTC] PHP Warning:  require(C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/inc/template-tags.php): Failed to open stream: No such file or directory in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 103
+[24-Jun-2025 05:43:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/inc/template-tags.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php:103
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-settings.php(695): include()
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php(103): require_once('C:\\Users\\lance....')
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-load.php(50): require_once('C:\\Users\\lance....')
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(13): require_once('C:\\Users\\lance....')
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#5 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 103
+[24-Jun-2025 05:43:01 UTC] PHP Warning:  require(C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/inc/template-tags.php): Failed to open stream: No such file or directory in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 103
+[24-Jun-2025 05:43:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/inc/template-tags.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php:103
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-settings.php(695): include()
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php(103): require_once('C:\\Users\\lance....')
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-load.php(50): require_once('C:\\Users\\lance....')
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(13): require_once('C:\\Users\\lance....')
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#5 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 103
+[24-Jun-2025 05:44:47 UTC] PHP Warning:  require(C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/inc/template-tags.php): Failed to open stream: No such file or directory in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 103
+[24-Jun-2025 05:44:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/inc/template-tags.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php:103
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-settings.php(695): include()
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php(103): require_once('C:\\Users\\lance....')
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-load.php(50): require_once('C:\\Users\\lance....')
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\lance....')
+#4 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 103
+[24-Jun-2025 05:44:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[24-Jun-2025 05:44:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[24-Jun-2025 05:44:50 UTC] PHP Warning:  require(C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/inc/template-tags.php): Failed to open stream: No such file or directory in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 103
+[24-Jun-2025 05:44:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/inc/template-tags.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php:103
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-settings.php(695): include()
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php(103): require_once('C:\\Users\\lance....')
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-load.php(50): require_once('C:\\Users\\lance....')
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-admin\admin.php(35): require_once('C:\\Users\\lance....')
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-admin\themes.php(10): require_once('C:\\Users\\lance....')
+#5 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 103
+[24-Jun-2025 05:44:50 UTC] PHP Warning:  require(C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/inc/template-tags.php): Failed to open stream: No such file or directory in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 103
+[24-Jun-2025 05:44:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/inc/template-tags.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php:103
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-settings.php(695): include()
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php(103): require_once('C:\\Users\\lance....')
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-load.php(50): require_once('C:\\Users\\lance....')
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(13): require_once('C:\\Users\\lance....')
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#5 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 103
+[24-Jun-2025 05:44:53 UTC] PHP Warning:  require(C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/inc/template-tags.php): Failed to open stream: No such file or directory in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 103
+[24-Jun-2025 05:44:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/inc/template-tags.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php:103
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-settings.php(695): include()
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php(103): require_once('C:\\Users\\lance....')
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-load.php(50): require_once('C:\\Users\\lance....')
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-admin\admin.php(35): require_once('C:\\Users\\lance....')
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-admin\themes.php(10): require_once('C:\\Users\\lance....')
+#5 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 103
+[24-Jun-2025 05:44:53 UTC] PHP Warning:  require(C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/inc/template-tags.php): Failed to open stream: No such file or directory in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 103
+[24-Jun-2025 05:44:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/inc/template-tags.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php:103
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-settings.php(695): include()
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php(103): require_once('C:\\Users\\lance....')
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-load.php(50): require_once('C:\\Users\\lance....')
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(13): require_once('C:\\Users\\lance....')
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#5 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 103
+[24-Jun-2025 05:52:40 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "php" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\header.php:1
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(745): load_template('C:\\Users\\lance....', true, Array)
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\index.php(14): get_header()
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\lance....')
+#5 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lance....')
+#6 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#7 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\header.php on line 1
+[24-Jun-2025 05:52:42 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "php" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\header.php:1
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(745): load_template('C:\\Users\\lance....', true, Array)
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\index.php(14): get_header()
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\lance....')
+#5 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lance....')
+#6 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#7 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\header.php on line 1
+[24-Jun-2025 05:52:44 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "php" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\header.php:1
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(745): load_template('C:\\Users\\lance....', true, Array)
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\index.php(14): get_header()
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\lance....')
+#5 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lance....')
+#6 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#7 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\header.php on line 1
+[24-Jun-2025 05:54:16 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "php" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\header.php:1
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(745): load_template('C:\\Users\\lance....', true, Array)
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\index.php(14): get_header()
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\lance....')
+#5 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lance....')
+#6 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#7 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\header.php on line 1
+[24-Jun-2025 05:55:05 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "php" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\header.php:1
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(745): load_template('C:\\Users\\lance....', true, Array)
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\index.php(14): get_header()
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\lance....')
+#5 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lance....')
+#6 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#7 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\header.php on line 1
+[24-Jun-2025 05:55:16 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "php" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\footer.php:1
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(745): load_template('C:\\Users\\lance....', true, Array)
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\index.php(48): get_footer()
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\lance....')
+#5 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lance....')
+#6 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#7 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\footer.php on line 1
+[24-Jun-2025 05:55:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "php" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\header.php:1
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(745): load_template('C:\\Users\\lance....', true, Array)
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\index.php(14): get_header()
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\lance....')
+#5 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lance....')
+#6 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#7 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\header.php on line 1
+[24-Jun-2025 05:55:27 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "php" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\footer.php:1
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(745): load_template('C:\\Users\\lance....', true, Array)
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\index.php(48): get_footer()
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\lance....')
+#5 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lance....')
+#6 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#7 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\footer.php on line 1
+[24-Jun-2025 05:55:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "php" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\footer.php:1
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(745): load_template('C:\\Users\\lance....', true, Array)
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\index.php(48): get_footer()
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\lance....')
+#5 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lance....')
+#6 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#7 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\footer.php on line 1
+[24-Jun-2025 07:07:07 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\class-wp-customize-widgets.php on line 926
+[24-Jun-2025 07:09:24 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\class-wp-customize-widgets.php on line 926
+[24-Jun-2025 07:14:37 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\class-wp-customize-widgets.php on line 926
+[24-Jun-2025 07:35:01 UTC] PHP Warning:  require_once(C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/functions/news-settings.php): Failed to open stream: No such file or directory in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 3
+[24-Jun-2025 07:35:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/functions/news-settings.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php:3
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-settings.php(695): include()
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php(103): require_once('C:\\Users\\lance....')
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-load.php(50): require_once('C:\\Users\\lance....')
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\lance....')
+#4 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 3
+[24-Jun-2025 07:37:01 UTC] PHP Warning:  require_once(C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/functions/news-settings.php): Failed to open stream: No such file or directory in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 3
+[24-Jun-2025 07:37:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/functions/news-settings.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php:3
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-settings.php(695): include()
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php(103): require_once('C:\\Users\\lance....')
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-load.php(50): require_once('C:\\Users\\lance....')
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\lance....')
+#4 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 3
+[24-Jun-2025 07:39:02 UTC] PHP Warning:  require_once(C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/functions/news-settings.php): Failed to open stream: No such file or directory in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 3
+[24-Jun-2025 07:39:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/functions/news-settings.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php:3
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-settings.php(695): include()
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php(103): require_once('C:\\Users\\lance....')
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-load.php(50): require_once('C:\\Users\\lance....')
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\lance....')
+#4 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 3
+[24-Jun-2025 07:41:03 UTC] PHP Warning:  require_once(C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/functions/news-settings.php): Failed to open stream: No such file or directory in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 3
+[24-Jun-2025 07:41:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/functions/news-settings.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php:3
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-settings.php(695): include()
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php(103): require_once('C:\\Users\\lance....')
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-load.php(50): require_once('C:\\Users\\lance....')
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\lance....')
+#4 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 3
+[24-Jun-2025 07:43:04 UTC] PHP Warning:  require_once(C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/functions/news-settings.php): Failed to open stream: No such file or directory in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 3
+[24-Jun-2025 07:43:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/functions/news-settings.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php:3
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-settings.php(695): include()
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php(103): require_once('C:\\Users\\lance....')
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-load.php(50): require_once('C:\\Users\\lance....')
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\lance....')
+#4 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 3
+[24-Jun-2025 08:10:50 UTC] PHP Warning:  include(C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/templates/home-module/home-hero.php): Failed to open stream: No such file or directory in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\home-template.php on line 7
+[24-Jun-2025 08:10:50 UTC] PHP Warning:  include(): Failed opening 'C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/templates/home-module/home-hero.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\home-template.php on line 7
+[24-Jun-2025 08:12:28 UTC] PHP Warning:  include(C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/templates/home-module/hero.php): Failed to open stream: No such file or directory in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\home-template.php on line 7
+[24-Jun-2025 08:12:28 UTC] PHP Warning:  include(): Failed opening 'C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/templates/home-module/hero.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\home-template.php on line 7
+[24-Jun-2025 08:12:29 UTC] PHP Warning:  include(C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/templates/home-module/hero.php): Failed to open stream: No such file or directory in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\home-template.php on line 7
+[24-Jun-2025 08:12:29 UTC] PHP Warning:  include(): Failed opening 'C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/templates/home-module/hero.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\home-template.php on line 7
+[24-Jun-2025 08:12:30 UTC] PHP Warning:  include(C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/templates/home-module/hero.php): Failed to open stream: No such file or directory in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\home-template.php on line 7
+[24-Jun-2025 08:12:30 UTC] PHP Warning:  include(): Failed opening 'C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/themes/smdcheights/templates/home-module/hero.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\home-template.php on line 7
+[24-Jun-2025 09:24:28 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\class-wp-customize-widgets.php on line 926
+[24-Jun-2025 09:29:15 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\class-wp-customize-widgets.php on line 926
+[02-Jul-2025 02:01:56 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\class-wp-customize-widgets.php on line 926
+[08-Jul-2025 07:16:09 UTC] PHP Fatal error:  Cannot redeclare menu_option() (previously declared in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php:113) in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions\navigation-settings.php on line 3
+[08-Jul-2025 07:16:09 UTC] PHP Fatal error:  Cannot redeclare menu_option() (previously declared in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php:113) in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions\navigation-settings.php on line 3
+[08-Jul-2025 07:16:27 UTC] PHP Fatal error:  Cannot redeclare menu_option() (previously declared in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php:113) in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions\navigation-settings.php on line 3
+[08-Jul-2025 07:16:27 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[08-Jul-2025 07:16:27 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[08-Jul-2025 07:41:43 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\class-wp-customize-widgets.php on line 926
+[09-Jul-2025 02:45:18 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\class-wp-customize-widgets.php on line 926
+[09-Jul-2025 02:45:22 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\class-wp-customize-widgets.php on line 926
+[10-Jul-2025 03:41:49 UTC] PHP Warning:  Undefined variable $hero_button_text in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\reusable-module\hero.php on line 28
+[10-Jul-2025 03:44:07 UTC] PHP Warning:  Undefined variable $hero_button_text in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\reusable-module\hero.php on line 28
+[10-Jul-2025 03:44:08 UTC] PHP Warning:  Undefined variable $hero_button_text in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\reusable-module\hero.php on line 28
+[10-Jul-2025 03:44:09 UTC] PHP Warning:  Undefined variable $hero_button_text in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\reusable-module\hero.php on line 28
+[10-Jul-2025 03:45:44 UTC] PHP Fatal error:  Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php:4476
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php(4476): ltrim(Array)
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\reusable-module\hero.php(30): esc_url(Array)
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(812): require('C:\\Users\\lance....')
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(745): load_template('C:\\Users\\lance....', false, Array)
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#5 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\home-template.php(9): get_template_part('templates/reusa...')
+#6 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\lance....')
+#7 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lance....')
+#8 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#9 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 4476
+[10-Jul-2025 03:45:45 UTC] PHP Fatal error:  Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php:4476
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php(4476): ltrim(Array)
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\reusable-module\hero.php(30): esc_url(Array)
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(812): require('C:\\Users\\lance....')
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(745): load_template('C:\\Users\\lance....', false, Array)
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#5 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\home-template.php(9): get_template_part('templates/reusa...')
+#6 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\lance....')
+#7 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lance....')
+#8 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#9 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 4476
+[10-Jul-2025 03:45:46 UTC] PHP Fatal error:  Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php:4476
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php(4476): ltrim(Array)
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\reusable-module\hero.php(30): esc_url(Array)
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(812): require('C:\\Users\\lance....')
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(745): load_template('C:\\Users\\lance....', false, Array)
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#5 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\home-template.php(9): get_template_part('templates/reusa...')
+#6 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\lance....')
+#7 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lance....')
+#8 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#9 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 4476
+[10-Jul-2025 03:45:47 UTC] PHP Fatal error:  Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php:4476
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php(4476): ltrim(Array)
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\reusable-module\hero.php(30): esc_url(Array)
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(812): require('C:\\Users\\lance....')
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(745): load_template('C:\\Users\\lance....', false, Array)
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#5 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\home-template.php(9): get_template_part('templates/reusa...')
+#6 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\lance....')
+#7 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lance....')
+#8 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#9 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 4476
+[10-Jul-2025 03:45:47 UTC] PHP Fatal error:  Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php:4476
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php(4476): ltrim(Array)
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\reusable-module\hero.php(30): esc_url(Array)
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(812): require('C:\\Users\\lance....')
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(745): load_template('C:\\Users\\lance....', false, Array)
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#5 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\home-template.php(9): get_template_part('templates/reusa...')
+#6 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\lance....')
+#7 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lance....')
+#8 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#9 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 4476
+[10-Jul-2025 03:45:48 UTC] PHP Fatal error:  Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php:4476
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php(4476): ltrim(Array)
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\reusable-module\hero.php(30): esc_url(Array)
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(812): require('C:\\Users\\lance....')
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(745): load_template('C:\\Users\\lance....', false, Array)
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#5 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\home-template.php(9): get_template_part('templates/reusa...')
+#6 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\lance....')
+#7 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lance....')
+#8 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#9 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 4476
+[10-Jul-2025 03:45:48 UTC] PHP Fatal error:  Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php:4476
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php(4476): ltrim(Array)
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\reusable-module\hero.php(30): esc_url(Array)
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(812): require('C:\\Users\\lance....')
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(745): load_template('C:\\Users\\lance....', false, Array)
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#5 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\home-template.php(9): get_template_part('templates/reusa...')
+#6 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\lance....')
+#7 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lance....')
+#8 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#9 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 4476
+[10-Jul-2025 03:45:49 UTC] PHP Fatal error:  Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php:4476
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php(4476): ltrim(Array)
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\reusable-module\hero.php(30): esc_url(Array)
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(812): require('C:\\Users\\lance....')
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(745): load_template('C:\\Users\\lance....', false, Array)
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#5 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\home-template.php(9): get_template_part('templates/reusa...')
+#6 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\lance....')
+#7 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lance....')
+#8 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#9 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 4476
+[10-Jul-2025 03:45:49 UTC] PHP Fatal error:  Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php:4476
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php(4476): ltrim(Array)
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\reusable-module\hero.php(30): esc_url(Array)
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(812): require('C:\\Users\\lance....')
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(745): load_template('C:\\Users\\lance....', false, Array)
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#5 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\home-template.php(9): get_template_part('templates/reusa...')
+#6 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\lance....')
+#7 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lance....')
+#8 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#9 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 4476
+[10-Jul-2025 03:45:50 UTC] PHP Fatal error:  Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php:4476
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php(4476): ltrim(Array)
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\reusable-module\hero.php(30): esc_url(Array)
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(812): require('C:\\Users\\lance....')
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(745): load_template('C:\\Users\\lance....', false, Array)
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#5 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\home-template.php(9): get_template_part('templates/reusa...')
+#6 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\lance....')
+#7 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lance....')
+#8 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#9 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 4476
+[10-Jul-2025 03:45:50 UTC] PHP Fatal error:  Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php:4476
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php(4476): ltrim(Array)
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\reusable-module\hero.php(30): esc_url(Array)
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(812): require('C:\\Users\\lance....')
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(745): load_template('C:\\Users\\lance....', false, Array)
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#5 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\home-template.php(9): get_template_part('templates/reusa...')
+#6 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\lance....')
+#7 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lance....')
+#8 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#9 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 4476
+[10-Jul-2025 03:45:51 UTC] PHP Fatal error:  Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php:4476
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php(4476): ltrim(Array)
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\reusable-module\hero.php(30): esc_url(Array)
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(812): require('C:\\Users\\lance....')
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(745): load_template('C:\\Users\\lance....', false, Array)
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#5 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\home-template.php(9): get_template_part('templates/reusa...')
+#6 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\lance....')
+#7 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lance....')
+#8 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#9 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 4476
+[10-Jul-2025 03:45:56 UTC] PHP Fatal error:  Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php:4476
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php(4476): ltrim(Array)
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\reusable-module\hero.php(30): esc_url(Array)
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(812): require('C:\\Users\\lance....')
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(745): load_template('C:\\Users\\lance....', false, Array)
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#5 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\home-template.php(9): get_template_part('templates/reusa...')
+#6 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\lance....')
+#7 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lance....')
+#8 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#9 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 4476
+[10-Jul-2025 03:47:07 UTC] PHP Fatal error:  Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php:4476
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php(4476): ltrim(Array)
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\reusable-module\hero.php(30): esc_url(Array)
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(812): require('C:\\Users\\lance....')
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(745): load_template('C:\\Users\\lance....', false, Array)
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#5 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\home-template.php(9): get_template_part('templates/reusa...')
+#6 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\lance....')
+#7 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lance....')
+#8 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#9 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 4476
+[10-Jul-2025 03:47:34 UTC] PHP Fatal error:  Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php:4476
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php(4476): ltrim(Array)
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\reusable-module\hero.php(30): esc_url(Array)
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(812): require('C:\\Users\\lance....')
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(745): load_template('C:\\Users\\lance....', false, Array)
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#5 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\home-template.php(9): get_template_part('templates/reusa...')
+#6 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\lance....')
+#7 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lance....')
+#8 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#9 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 4476
+[10-Jul-2025 03:52:27 UTC] PHP Warning:  Undefined variable $hero_button_text in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\reusable-module\hero.php on line 30
+[10-Jul-2025 03:52:41 UTC] PHP Fatal error:  Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php:4476
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php(4476): ltrim(Array)
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\reusable-module\hero.php(31): esc_url(Array)
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(812): require('C:\\Users\\lance....')
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(745): load_template('C:\\Users\\lance....', false, Array)
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#5 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\home-template.php(9): get_template_part('templates/reusa...')
+#6 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\lance....')
+#7 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lance....')
+#8 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#9 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 4476
+[10-Jul-2025 03:52:53 UTC] PHP Warning:  Undefined variable $hero_button_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\reusable-module\hero.php on line 30
+[10-Jul-2025 06:26:39 UTC] PHP Warning:  Undefined variable $hero_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\home-module\avp-section.php on line 11
+[11-Jul-2025 01:27:58 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:27:58 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:27:58 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:27:58 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:27:58 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:27:58 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:27:59 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:27:59 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:27:59 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:27:59 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:27:59 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:27:59 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:27:59 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:27:59 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:27:59 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:27:59 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:27:59 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:27:59 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:01 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:01 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:01 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:01 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:01 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:01 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:01 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:01 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:01 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:01 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:01 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:01 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:01 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:01 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:01 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:01 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:01 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:01 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:11 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:11 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:11 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:11 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:11 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:11 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:30 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:30 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:30 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:30 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:30 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:30 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:41 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:41 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:41 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:41 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:41 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:41 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:49 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:49 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:49 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:49 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:49 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:49 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:50 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:50 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:50 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:50 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:50 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:50 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:50 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:51 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:51 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:51 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:51 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:28:51 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 18
+[11-Jul-2025 01:35:25 UTC] PHP Warning:  Undefined variable $post in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 82
+[11-Jul-2025 01:35:25 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions.php on line 82
+[11-Jul-2025 06:06:33 UTC] PHP Warning:  Undefined variable $featured_query in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\home-module\featured-section.php on line 16
+[11-Jul-2025 06:06:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\home-module\featured-section.php:16
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(812): require()
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(745): load_template('C:\\Users\\lance....', false, Array)
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\home-template.php(12): get_template_part('templates/home-...')
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\lance....')
+#5 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lance....')
+#6 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#7 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\home-module\featured-section.php on line 16
+[13-Jul-2025 03:51:47 UTC] PHP Warning:  include(C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions/quote-table-class.php): Failed to open stream: No such file or directory in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions\quote-settings.php on line 71
+[13-Jul-2025 03:51:47 UTC] PHP Warning:  include(): Failed opening 'C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions/quote-table-class.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions\quote-settings.php on line 71
+[13-Jul-2025 03:51:47 UTC] PHP Fatal error:  Uncaught Error: Class "Quote_Request_List_Table" not found in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions\quote-settings.php:72
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\class-wp-hook.php(324): render_quote_requests_page('')
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-admin\admin.php(260): do_action('toplevel_page_q...')
+#4 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions\quote-settings.php on line 72
+[13-Jul-2025 03:51:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[13-Jul-2025 03:51:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[13-Jul-2025 03:55:33 UTC] WordPress database error Unknown column 'date' in 'order clause' for query SELECT * FROM wp_quote_requests  ORDER BY date DESC LIMIT 20 OFFSET 0 made by do_action('toplevel_page_quote-requests'), WP_Hook->do_action, WP_Hook->apply_filters, render_quote_requests_admin_page, Quote_Request_List_Table->prepare_items
+[13-Jul-2025 03:55:33 UTC] PHP Fatal error:  Cannot declare class Quote_Request_List_Table, because the name is already in use in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions\quote-table-class.php on line 8
+[13-Jul-2025 04:02:39 UTC] WordPress database error Unknown column 'date_submitted' in 'order clause' for query SELECT * FROM wp_quote_requests ORDER BY date_submitted DESC made by do_action('toplevel_page_quote-requests'), WP_Hook->do_action, WP_Hook->apply_filters, render_quote_requests_page, Quote_Request_List_Table->prepare_items
+[13-Jul-2025 04:59:06 UTC] WordPress database error Unknown column 'date_submitted' in 'order clause' for query SELECT * FROM wp_quote_requests ORDER BY date_submitted DESC made by do_action('toplevel_page_quote-requests'), WP_Hook->do_action, WP_Hook->apply_filters, render_quote_requests_page, Quote_Request_List_Table->prepare_items
+[13-Jul-2025 04:59:10 UTC] WordPress database error Unknown column 'date_submitted' in 'order clause' for query SELECT * FROM wp_quote_requests ORDER BY date_submitted DESC made by do_action('toplevel_page_quote-requests'), WP_Hook->do_action, WP_Hook->apply_filters, render_quote_requests_page, Quote_Request_List_Table->prepare_items
+[13-Jul-2025 05:07:03 UTC] WordPress database error Unknown column 'date_submitted' in 'order clause' for query SELECT * FROM wp_quote_requests ORDER BY date_submitted DESC made by do_action('toplevel_page_quote-requests'), WP_Hook->do_action, WP_Hook->apply_filters, render_quote_requests_page, Quote_Request_List_Table->prepare_items
+[13-Jul-2025 05:19:01 UTC] WordPress database error Unknown column 'date_submitted' in 'order clause' for query SELECT * FROM wp_quote_requests ORDER BY date_submitted DESC made by do_action('toplevel_page_quote-requests'), WP_Hook->do_action, WP_Hook->apply_filters, render_quote_requests_page, Quote_Request_List_Table->prepare_items
+[13-Jul-2025 05:26:06 UTC] WordPress database error Unknown column 'date_submitted' in 'order clause' for query SELECT * FROM wp_quote_requests ORDER BY date_submitted DESC made by do_action('toplevel_page_quote-requests'), WP_Hook->do_action, WP_Hook->apply_filters, render_quote_requests_page, Quote_Request_List_Table->prepare_items
+[13-Jul-2025 05:28:20 UTC] WordPress database error Unknown column 'name' in 'field list' for query INSERT INTO `wp_quote_requests` (`name`, `email`, `phone`, `property`, `country`, `message`) VALUES ('Lancelot Tonacao', 'lance@gmail.com', '09472619511', 'property_2', 'ph', '') made by do_action('wp_ajax_submit_quote_form'), WP_Hook->do_action, WP_Hook->apply_filters, handle_quote_submission
+[13-Jul-2025 05:28:25 UTC] WordPress database error Unknown column 'date_submitted' in 'order clause' for query SELECT * FROM wp_quote_requests ORDER BY date_submitted DESC made by do_action('toplevel_page_quote-requests'), WP_Hook->do_action, WP_Hook->apply_filters, render_quote_requests_page, Quote_Request_List_Table->prepare_items
+[13-Jul-2025 05:28:28 UTC] WordPress database error Unknown column 'date_submitted' in 'order clause' for query SELECT * FROM wp_quote_requests ORDER BY date_submitted DESC made by do_action('toplevel_page_quote-requests'), WP_Hook->do_action, WP_Hook->apply_filters, render_quote_requests_page, Quote_Request_List_Table->prepare_items
+[13-Jul-2025 05:28:55 UTC] WordPress database error Unknown column 'date_submitted' in 'order clause' for query SELECT * FROM wp_quote_requests ORDER BY date_submitted DESC made by do_action('toplevel_page_quote-requests'), WP_Hook->do_action, WP_Hook->apply_filters, render_quote_requests_page, Quote_Request_List_Table->prepare_items
+[13-Jul-2025 05:34:58 UTC] WordPress database error Unknown column 'date_submitted' in 'order clause' for query SELECT * FROM wp_quote_requests ORDER BY date_submitted DESC made by do_action('toplevel_page_quote-requests'), WP_Hook->do_action, WP_Hook->apply_filters, render_quote_requests_page, Quote_Request_List_Table->prepare_items
+[13-Jul-2025 05:39:08 UTC] WordPress database error Unknown column 'date_submitted' in 'order clause' for query SELECT * FROM wp_quote_requests ORDER BY date_submitted DESC made by do_action('toplevel_page_quote-requests'), WP_Hook->do_action, WP_Hook->apply_filters, render_quote_requests_page, Quote_Request_List_Table->prepare_items
+[13-Jul-2025 05:39:11 UTC] WordPress database error Unknown column 'date_submitted' in 'order clause' for query SELECT * FROM wp_quote_requests ORDER BY date_submitted DESC made by do_action('toplevel_page_quote-requests'), WP_Hook->do_action, WP_Hook->apply_filters, render_quote_requests_page, Quote_Request_List_Table->prepare_items
+[13-Jul-2025 05:42:25 UTC] WordPress database error Unknown column 'date_submitted' in 'order clause' for query SELECT * FROM wp_quote_requests ORDER BY date_submitted DESC made by do_action('toplevel_page_quote-requests'), WP_Hook->do_action, WP_Hook->apply_filters, render_quote_requests_page, Quote_Request_List_Table->prepare_items
+[13-Jul-2025 05:42:28 UTC] WordPress database error Unknown column 'date_submitted' in 'order clause' for query SELECT * FROM wp_quote_requests ORDER BY date_submitted DESC made by do_action('toplevel_page_quote-requests'), WP_Hook->do_action, WP_Hook->apply_filters, render_quote_requests_page, Quote_Request_List_Table->prepare_items
+[13-Jul-2025 05:44:20 UTC] WordPress database error Unknown column 'date_submitted' in 'order clause' for query SELECT * FROM wp_quote_requests ORDER BY date_submitted DESC made by do_action('toplevel_page_quote-requests'), WP_Hook->do_action, WP_Hook->apply_filters, render_quote_requests_page, Quote_Request_List_Table->prepare_items
+[13-Jul-2025 05:44:23 UTC] WordPress database error Unknown column 'date_submitted' in 'order clause' for query SELECT * FROM wp_quote_requests ORDER BY date_submitted DESC made by do_action('toplevel_page_quote-requests'), WP_Hook->do_action, WP_Hook->apply_filters, render_quote_requests_page, Quote_Request_List_Table->prepare_items
+[13-Jul-2025 05:44:36 UTC] WordPress database error Unknown column 'date_submitted' in 'order clause' for query SELECT * FROM wp_quote_requests ORDER BY date_submitted DESC made by do_action('toplevel_page_quote-requests'), WP_Hook->do_action, WP_Hook->apply_filters, render_quote_requests_page, Quote_Request_List_Table->prepare_items
+[13-Jul-2025 05:46:05 UTC] WordPress database error Unknown column 'date_submitted' in 'order clause' for query SELECT * FROM wp_quote_requests ORDER BY date_submitted DESC made by do_action('toplevel_page_quote-requests'), WP_Hook->do_action, WP_Hook->apply_filters, render_quote_requests_page, Quote_Request_List_Table->prepare_items
+[13-Jul-2025 06:06:32 UTC] PHP Fatal error:  Cannot redeclare display_all_locations() (previously declared in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions\location-settings.php:57) in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions\quote-table-class.php on line 116
+[13-Jul-2025 06:06:32 UTC] PHP Fatal error:  Cannot redeclare display_all_locations() (previously declared in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions\location-settings.php:57) in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions\quote-table-class.php on line 116
+[13-Jul-2025 06:07:04 UTC] PHP Fatal error:  Cannot redeclare display_all_locations() (previously declared in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions\location-settings.php:57) in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions\quote-table-class.php on line 116
+[13-Jul-2025 06:07:16 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "render_quote_requests_page" not found or invalid function name in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-admin\admin.php(260): do_action('toplevel_page_q...')
+#3 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\class-wp-hook.php on line 324
+[13-Jul-2025 06:10:16 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "render_quote_requests_page" not found or invalid function name in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-admin\admin.php(260): do_action('toplevel_page_q...')
+#3 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\class-wp-hook.php on line 324
+[13-Jul-2025 06:10:19 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "render_quote_requests_page" not found or invalid function name in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-admin\admin.php(260): do_action('toplevel_page_q...')
+#3 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\class-wp-hook.php on line 324
+[13-Jul-2025 06:10:25 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "render_quote_requests_page" not found or invalid function name in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-admin\admin.php(260): do_action('toplevel_page_q...')
+#3 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\class-wp-hook.php on line 324
+[13-Jul-2025 06:18:53 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "register_quote_admin_page" not found or invalid function name in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-admin\includes\menu.php(161): do_action('admin_menu', '')
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-admin\menu.php(423): require_once('C:\\Users\\lance....')
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-admin\admin.php(159): require('C:\\Users\\lance....')
+#5 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\class-wp-hook.php on line 324
+[13-Jul-2025 06:21:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\script-loader.php:3015) in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions\quote-table-class.php on line 144
+[13-Jul-2025 06:21:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\script-loader.php:3015) in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions\quote-table-class.php on line 145
+[13-Jul-2025 06:23:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\script-loader.php:3015) in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions\quote-table-class.php on line 142
+[13-Jul-2025 06:23:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\script-loader.php:3015) in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions\quote-table-class.php on line 143
+[13-Jul-2025 06:25:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\script-loader.php:3015) in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions\quote-table-class.php on line 143
+[13-Jul-2025 06:25:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\script-loader.php:3015) in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions\quote-table-class.php on line 144
+[13-Jul-2025 06:27:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\script-loader.php:3015) in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions\quote-table-class.php on line 142
+[13-Jul-2025 06:27:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\script-loader.php:3015) in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\functions\quote-table-class.php on line 143
+[14-Jul-2025 02:10:48 UTC] PHP Warning:  Undefined variable $sidebar_logo in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\footer.php on line 18
+[14-Jul-2025 02:10:49 UTC] PHP Warning:  Undefined variable $sidebar_logo in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\footer.php on line 18
+[14-Jul-2025 02:14:50 UTC] PHP Warning:  Undefined variable $sidebar_logo in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\footer.php on line 18
+[14-Jul-2025 02:14:51 UTC] PHP Warning:  Undefined variable $sidebar_logo in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\footer.php on line 18
+[14-Jul-2025 02:15:16 UTC] PHP Warning:  Undefined variable $sidebar_logo in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\footer.php on line 18
+[14-Jul-2025 02:15:16 UTC] PHP Warning:  Undefined variable $sidebar_logo in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\footer.php on line 18
+[14-Jul-2025 02:15:32 UTC] PHP Warning:  Undefined variable $sidebar_logo in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\footer.php on line 18
+[14-Jul-2025 02:15:32 UTC] PHP Warning:  Undefined variable $sidebar_logo in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\footer.php on line 18
+[14-Jul-2025 02:15:33 UTC] PHP Warning:  Undefined variable $sidebar_logo in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\footer.php on line 18
+[14-Jul-2025 02:15:33 UTC] PHP Warning:  Undefined variable $sidebar_logo in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\footer.php on line 18
+[14-Jul-2025 02:16:05 UTC] PHP Warning:  Undefined variable $sidebar_logo in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\footer.php on line 18
+[14-Jul-2025 02:16:05 UTC] PHP Warning:  Undefined variable $sidebar_logo in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\footer.php on line 18
+[14-Jul-2025 02:16:10 UTC] PHP Warning:  Undefined variable $sidebar_logo in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\footer.php on line 18
+[14-Jul-2025 02:16:10 UTC] PHP Warning:  Undefined variable $sidebar_logo in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\footer.php on line 18
+[14-Jul-2025 02:16:18 UTC] PHP Warning:  Undefined variable $sidebar_logo in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\footer.php on line 18
+[14-Jul-2025 02:16:18 UTC] PHP Warning:  Undefined variable $sidebar_logo in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\footer.php on line 18
+[14-Jul-2025 02:18:44 UTC] PHP Warning:  Undefined variable $sidebar_logo in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\footer.php on line 18
+[14-Jul-2025 02:18:44 UTC] PHP Warning:  Undefined variable $sidebar_logo in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\footer.php on line 18
+[14-Jul-2025 02:18:49 UTC] PHP Warning:  Undefined variable $sidebar_logo in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\footer.php on line 18
+[14-Jul-2025 02:18:49 UTC] PHP Warning:  Undefined variable $sidebar_logo in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\footer.php on line 18
+[14-Jul-2025 02:19:20 UTC] PHP Warning:  Undefined variable $sidebar_logo in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\footer.php on line 18
+[14-Jul-2025 02:19:20 UTC] PHP Warning:  Undefined variable $sidebar_logo in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\footer.php on line 18
+[14-Jul-2025 04:38:48 UTC] PHP Parse error:  syntax error, unexpected token ">" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\footer.php on line 29
+[14-Jul-2025 04:38:48 UTC] PHP Parse error:  syntax error, unexpected token ">" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\footer.php on line 29
+[14-Jul-2025 07:35:41 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 29
+[14-Jul-2025 07:35:54 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 29
+[14-Jul-2025 09:27:26 UTC] PHP Warning:  Undefined variable $property_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 29
+[14-Jul-2025 09:27:26 UTC] PHP Warning:  Undefined variable $property_about_description in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 30
+[14-Jul-2025 09:27:26 UTC] PHP Warning:  Undefined variable $property_location_description in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 35
+[14-Jul-2025 09:27:26 UTC] PHP Warning:  Undefined variable $property_rooms in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 39
+[14-Jul-2025 09:27:26 UTC] PHP Warning:  Undefined variable $property_amenities in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 43
+[14-Jul-2025 09:27:26 UTC] PHP Warning:  Undefined variable $nearby_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 53
+[14-Jul-2025 09:27:26 UTC] PHP Warning:  Undefined variable $google_map_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 56
+[14-Jul-2025 09:27:26 UTC] PHP Warning:  Undefined variable $map_image in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 60
+[14-Jul-2025 09:27:26 UTC] PHP Warning:  Undefined variable $frontage_desc in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 71
+[14-Jul-2025 09:27:26 UTC] PHP Warning:  Undefined variable $virtual_tour_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 73
+[14-Jul-2025 09:27:26 UTC] PHP Warning:  Undefined variable $walkthrough_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 76
+[14-Jul-2025 09:27:26 UTC] PHP Warning:  Undefined variable $media_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 79
+[14-Jul-2025 09:27:26 UTC] PHP Warning:  Undefined variable $master_plan_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 82
+[14-Jul-2025 09:27:26 UTC] PHP Warning:  Undefined variable $frontage_images in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 87
+[14-Jul-2025 09:27:56 UTC] PHP Warning:  Undefined variable $property_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 29
+[14-Jul-2025 09:27:56 UTC] PHP Warning:  Undefined variable $property_about_description in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 30
+[14-Jul-2025 09:27:56 UTC] PHP Warning:  Undefined variable $property_location_description in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 35
+[14-Jul-2025 09:27:56 UTC] PHP Warning:  Undefined variable $property_rooms in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 39
+[14-Jul-2025 09:27:56 UTC] PHP Warning:  Undefined variable $property_amenities in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 43
+[14-Jul-2025 09:27:56 UTC] PHP Warning:  Undefined variable $nearby_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 53
+[14-Jul-2025 09:27:56 UTC] PHP Warning:  Undefined variable $google_map_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 56
+[14-Jul-2025 09:27:56 UTC] PHP Warning:  Undefined variable $map_image in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 60
+[14-Jul-2025 09:27:57 UTC] PHP Warning:  Undefined variable $frontage_desc in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 71
+[14-Jul-2025 09:27:57 UTC] PHP Warning:  Undefined variable $virtual_tour_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 73
+[14-Jul-2025 09:27:57 UTC] PHP Warning:  Undefined variable $walkthrough_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 76
+[14-Jul-2025 09:27:57 UTC] PHP Warning:  Undefined variable $media_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 79
+[14-Jul-2025 09:27:57 UTC] PHP Warning:  Undefined variable $master_plan_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 82
+[14-Jul-2025 09:27:57 UTC] PHP Warning:  Undefined variable $frontage_images in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 87
+[14-Jul-2025 09:27:58 UTC] PHP Warning:  Undefined variable $property_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 29
+[14-Jul-2025 09:27:58 UTC] PHP Warning:  Undefined variable $property_about_description in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 30
+[14-Jul-2025 09:27:58 UTC] PHP Warning:  Undefined variable $property_location_description in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 35
+[14-Jul-2025 09:27:58 UTC] PHP Warning:  Undefined variable $property_rooms in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 39
+[14-Jul-2025 09:27:58 UTC] PHP Warning:  Undefined variable $property_amenities in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 43
+[14-Jul-2025 09:27:58 UTC] PHP Warning:  Undefined variable $nearby_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 53
+[14-Jul-2025 09:27:58 UTC] PHP Warning:  Undefined variable $google_map_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 56
+[14-Jul-2025 09:27:58 UTC] PHP Warning:  Undefined variable $map_image in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 60
+[14-Jul-2025 09:27:58 UTC] PHP Warning:  Undefined variable $frontage_desc in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 71
+[14-Jul-2025 09:27:58 UTC] PHP Warning:  Undefined variable $virtual_tour_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 73
+[14-Jul-2025 09:27:58 UTC] PHP Warning:  Undefined variable $walkthrough_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 76
+[14-Jul-2025 09:27:58 UTC] PHP Warning:  Undefined variable $media_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 79
+[14-Jul-2025 09:27:58 UTC] PHP Warning:  Undefined variable $master_plan_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 82
+[14-Jul-2025 09:27:58 UTC] PHP Warning:  Undefined variable $frontage_images in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 87
+[15-Jul-2025 01:27:40 UTC] PHP Warning:  Undefined variable $property_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 29
+[15-Jul-2025 01:27:41 UTC] PHP Warning:  Undefined variable $property_about_description in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 30
+[15-Jul-2025 01:27:41 UTC] PHP Warning:  Undefined variable $property_location_description in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 35
+[15-Jul-2025 01:27:41 UTC] PHP Warning:  Undefined variable $property_rooms in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 39
+[15-Jul-2025 01:27:41 UTC] PHP Warning:  Undefined variable $property_amenities in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 43
+[15-Jul-2025 01:27:41 UTC] PHP Warning:  Undefined variable $nearby_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 53
+[15-Jul-2025 01:27:41 UTC] PHP Warning:  Undefined variable $google_map_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 56
+[15-Jul-2025 01:27:41 UTC] PHP Warning:  Undefined variable $map_image in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 60
+[15-Jul-2025 01:27:41 UTC] PHP Warning:  Undefined variable $frontage_desc in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 71
+[15-Jul-2025 01:27:41 UTC] PHP Warning:  Undefined variable $virtual_tour_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 73
+[15-Jul-2025 01:27:41 UTC] PHP Warning:  Undefined variable $walkthrough_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 76
+[15-Jul-2025 01:27:41 UTC] PHP Warning:  Undefined variable $media_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 79
+[15-Jul-2025 01:27:41 UTC] PHP Warning:  Undefined variable $master_plan_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 82
+[15-Jul-2025 01:27:41 UTC] PHP Warning:  Undefined variable $frontage_images in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 87
+[15-Jul-2025 03:01:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function display_custom_homepage_header_menu() in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\header.php:22
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template.php(745): load_template('C:\\Users\\lance....', true, Array)
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\home-template.php(5): get_header()
+#4 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\lance....')
+#5 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lance....')
+#6 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#7 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\header.php on line 22
+[15-Jul-2025 03:52:08 UTC] PHP Warning:  Undefined variable $property_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 29
+[15-Jul-2025 03:52:08 UTC] PHP Warning:  Undefined variable $property_about_description in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 30
+[15-Jul-2025 03:52:08 UTC] PHP Warning:  Undefined variable $property_location_description in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 35
+[15-Jul-2025 03:52:08 UTC] PHP Warning:  Undefined variable $property_rooms in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 39
+[15-Jul-2025 03:52:08 UTC] PHP Warning:  Undefined variable $property_amenities in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 43
+[15-Jul-2025 03:52:08 UTC] PHP Warning:  Undefined variable $nearby_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 53
+[15-Jul-2025 03:52:08 UTC] PHP Warning:  Undefined variable $google_map_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 56
+[15-Jul-2025 03:52:08 UTC] PHP Warning:  Undefined variable $map_image in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 60
+[15-Jul-2025 03:52:08 UTC] PHP Warning:  Undefined variable $frontage_desc in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 71
+[15-Jul-2025 03:52:08 UTC] PHP Warning:  Undefined variable $virtual_tour_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 73
+[15-Jul-2025 03:52:08 UTC] PHP Warning:  Undefined variable $walkthrough_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 76
+[15-Jul-2025 03:52:08 UTC] PHP Warning:  Undefined variable $media_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 79
+[15-Jul-2025 03:52:08 UTC] PHP Warning:  Undefined variable $master_plan_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 82
+[15-Jul-2025 03:52:08 UTC] PHP Warning:  Undefined variable $frontage_images in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 87
+[15-Jul-2025 03:52:10 UTC] PHP Warning:  Undefined variable $property_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 29
+[15-Jul-2025 03:52:10 UTC] PHP Warning:  Undefined variable $property_about_description in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 30
+[15-Jul-2025 03:52:10 UTC] PHP Warning:  Undefined variable $property_location_description in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 35
+[15-Jul-2025 03:52:10 UTC] PHP Warning:  Undefined variable $property_rooms in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 39
+[15-Jul-2025 03:52:10 UTC] PHP Warning:  Undefined variable $property_amenities in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 43
+[15-Jul-2025 03:52:10 UTC] PHP Warning:  Undefined variable $nearby_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 53
+[15-Jul-2025 03:52:10 UTC] PHP Warning:  Undefined variable $google_map_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 56
+[15-Jul-2025 03:52:10 UTC] PHP Warning:  Undefined variable $map_image in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 60
+[15-Jul-2025 03:52:10 UTC] PHP Warning:  Undefined variable $frontage_desc in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 71
+[15-Jul-2025 03:52:10 UTC] PHP Warning:  Undefined variable $virtual_tour_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 73
+[15-Jul-2025 03:52:10 UTC] PHP Warning:  Undefined variable $walkthrough_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 76
+[15-Jul-2025 03:52:10 UTC] PHP Warning:  Undefined variable $media_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 79
+[15-Jul-2025 03:52:10 UTC] PHP Warning:  Undefined variable $master_plan_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 82
+[15-Jul-2025 03:52:10 UTC] PHP Warning:  Undefined variable $frontage_images in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 87
+[15-Jul-2025 04:34:32 UTC] PHP Warning:  Undefined variable $property_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 29
+[15-Jul-2025 04:34:32 UTC] PHP Warning:  Undefined variable $property_about_description in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 30
+[15-Jul-2025 04:34:32 UTC] PHP Warning:  Undefined variable $property_location_description in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 35
+[15-Jul-2025 04:34:32 UTC] PHP Warning:  Undefined variable $property_rooms in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 39
+[15-Jul-2025 04:34:32 UTC] PHP Warning:  Undefined variable $property_amenities in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 43
+[15-Jul-2025 04:34:32 UTC] PHP Warning:  Undefined variable $nearby_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 53
+[15-Jul-2025 04:34:32 UTC] PHP Warning:  Undefined variable $google_map_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 56
+[15-Jul-2025 04:34:32 UTC] PHP Warning:  Undefined variable $map_image in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 60
+[15-Jul-2025 04:34:32 UTC] PHP Warning:  Undefined variable $frontage_desc in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 71
+[15-Jul-2025 04:34:32 UTC] PHP Warning:  Undefined variable $virtual_tour_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 73
+[15-Jul-2025 04:34:32 UTC] PHP Warning:  Undefined variable $walkthrough_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 76
+[15-Jul-2025 04:34:32 UTC] PHP Warning:  Undefined variable $media_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 79
+[15-Jul-2025 04:34:32 UTC] PHP Warning:  Undefined variable $master_plan_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 82
+[15-Jul-2025 04:34:32 UTC] PHP Warning:  Undefined variable $frontage_images in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 87
+[15-Jul-2025 06:12:58 UTC] PHP Warning:  Undefined variable $is_complete in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\properties-module\projects-section.php on line 38
+[15-Jul-2025 07:19:40 UTC] PHP Warning:  Undefined variable $property_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 29
+[15-Jul-2025 07:19:40 UTC] PHP Warning:  Undefined variable $property_about_description in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 30
+[15-Jul-2025 07:19:41 UTC] PHP Warning:  Undefined variable $property_location_description in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 35
+[15-Jul-2025 07:19:41 UTC] PHP Warning:  Undefined variable $property_rooms in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 39
+[15-Jul-2025 07:19:41 UTC] PHP Warning:  Undefined variable $property_amenities in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 43
+[15-Jul-2025 07:19:41 UTC] PHP Warning:  Undefined variable $nearby_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 53
+[15-Jul-2025 07:19:41 UTC] PHP Warning:  Undefined variable $google_map_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 56
+[15-Jul-2025 07:19:41 UTC] PHP Warning:  Undefined variable $map_image in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 60
+[15-Jul-2025 07:19:41 UTC] PHP Warning:  Undefined variable $frontage_desc in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 71
+[15-Jul-2025 07:19:41 UTC] PHP Warning:  Undefined variable $virtual_tour_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 73
+[15-Jul-2025 07:19:41 UTC] PHP Warning:  Undefined variable $walkthrough_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 76
+[15-Jul-2025 07:19:41 UTC] PHP Warning:  Undefined variable $media_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 79
+[15-Jul-2025 07:19:41 UTC] PHP Warning:  Undefined variable $master_plan_link in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 82
+[15-Jul-2025 07:19:41 UTC] PHP Warning:  Undefined variable $frontage_images in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 87
+[15-Jul-2025 08:18:05 UTC] PHP Warning:  Undefined variable $hero_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 26
+[15-Jul-2025 08:19:29 UTC] PHP Warning:  Undefined variable $property_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 104
+[15-Jul-2025 08:19:31 UTC] PHP Warning:  Undefined variable $property_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 104
+[15-Jul-2025 08:20:04 UTC] PHP Warning:  Undefined variable $property_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 104
+[15-Jul-2025 08:20:09 UTC] PHP Warning:  Undefined variable $property_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 104
+[15-Jul-2025 08:23:00 UTC] PHP Warning:  Undefined variable $property_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 104
+[15-Jul-2025 08:25:02 UTC] PHP Warning:  Undefined variable $property_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 104
+[15-Jul-2025 08:25:56 UTC] PHP Warning:  Undefined variable $property_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 104
+[15-Jul-2025 08:26:00 UTC] PHP Warning:  Undefined variable $property_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 104
+[15-Jul-2025 08:26:54 UTC] PHP Warning:  Undefined variable $property_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 104
+[15-Jul-2025 08:27:31 UTC] PHP Warning:  Undefined variable $property_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 104
+[15-Jul-2025 08:27:55 UTC] PHP Warning:  Undefined variable $property_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 104
+[15-Jul-2025 08:29:08 UTC] PHP Warning:  Undefined variable $property_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 104
+[15-Jul-2025 08:29:59 UTC] PHP Warning:  Undefined variable $property_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 104
+[15-Jul-2025 08:30:13 UTC] PHP Warning:  Undefined variable $property_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 104
+[15-Jul-2025 08:30:46 UTC] PHP Warning:  Undefined variable $property_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 104
+[15-Jul-2025 08:31:12 UTC] PHP Warning:  Undefined variable $property_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 104
+[15-Jul-2025 08:35:19 UTC] PHP Warning:  Undefined variable $property_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 104
+[15-Jul-2025 08:35:52 UTC] PHP Warning:  Undefined variable $property_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 104
+[15-Jul-2025 08:36:47 UTC] PHP Warning:  Undefined variable $property_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 104
+[15-Jul-2025 08:38:08 UTC] PHP Warning:  Undefined variable $property_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 104
+[15-Jul-2025 08:45:36 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 70
+[15-Jul-2025 08:45:54 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 69
+[15-Jul-2025 08:46:01 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 57
+[15-Jul-2025 08:46:16 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 55
+[15-Jul-2025 08:46:19 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 55
+[15-Jul-2025 08:46:22 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 55
+[15-Jul-2025 08:47:39 UTC] PHP Warning:  Undefined variable $property_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 37
+[15-Jul-2025 08:47:39 UTC] PHP Warning:  Undefined variable $property_about_description in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 38
+[15-Jul-2025 08:47:39 UTC] PHP Warning:  Undefined variable $property_location_description in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 43
+[15-Jul-2025 08:47:39 UTC] PHP Warning:  Undefined variable $property_rooms in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 47
+[15-Jul-2025 08:47:39 UTC] PHP Warning:  Undefined variable $property_amenities in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 51
+[15-Jul-2025 08:51:07 UTC] PHP Warning:  Undefined variable $property_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 37
+[15-Jul-2025 08:51:07 UTC] PHP Warning:  Undefined variable $property_about_description in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 38
+[15-Jul-2025 08:51:07 UTC] PHP Warning:  Undefined variable $property_location_description in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 43
+[15-Jul-2025 08:51:07 UTC] PHP Warning:  Undefined variable $property_rooms in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 47
+[15-Jul-2025 08:51:07 UTC] PHP Warning:  Undefined variable $property_amenities in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 51
+[15-Jul-2025 08:51:19 UTC] PHP Warning:  Undefined variable $property_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 37
+[15-Jul-2025 08:51:19 UTC] PHP Warning:  Undefined variable $property_about_description in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 38
+[15-Jul-2025 08:51:19 UTC] PHP Warning:  Undefined variable $property_location_description in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 43
+[15-Jul-2025 08:51:19 UTC] PHP Warning:  Undefined variable $property_rooms in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 47
+[15-Jul-2025 08:51:19 UTC] PHP Warning:  Undefined variable $property_amenities in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 51
+[15-Jul-2025 08:52:29 UTC] PHP Warning:  Undefined variable $property_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 37
+[15-Jul-2025 08:52:29 UTC] PHP Warning:  Undefined variable $property_about_description in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 38
+[15-Jul-2025 08:52:29 UTC] PHP Warning:  Undefined variable $property_location_description in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 43
+[15-Jul-2025 08:52:29 UTC] PHP Warning:  Undefined variable $property_rooms in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 47
+[15-Jul-2025 08:52:29 UTC] PHP Warning:  Undefined variable $property_amenities in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 51
+[15-Jul-2025 08:52:30 UTC] PHP Warning:  Undefined variable $property_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 37
+[15-Jul-2025 08:52:30 UTC] PHP Warning:  Undefined variable $property_about_description in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 38
+[15-Jul-2025 08:52:30 UTC] PHP Warning:  Undefined variable $property_location_description in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 43
+[15-Jul-2025 08:52:30 UTC] PHP Warning:  Undefined variable $property_rooms in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 47
+[15-Jul-2025 08:52:30 UTC] PHP Warning:  Undefined variable $property_amenities in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 51
+[15-Jul-2025 08:56:34 UTC] PHP Warning:  Undefined variable $property_rooms in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 57
+[15-Jul-2025 08:56:34 UTC] PHP Warning:  Undefined variable $property_amenities in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 69
+[15-Jul-2025 08:57:59 UTC] PHP Warning:  Undefined variable $property_rooms in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 57
+[15-Jul-2025 08:57:59 UTC] PHP Warning:  Undefined variable $property_amenities in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 69
+[15-Jul-2025 08:58:28 UTC] PHP Warning:  Undefined variable $property_rooms in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 57
+[15-Jul-2025 08:58:28 UTC] PHP Warning:  Undefined variable $property_amenities in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 69
+[15-Jul-2025 09:00:22 UTC] PHP Warning:  Undefined variable $property_rooms in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 59
+[15-Jul-2025 09:00:22 UTC] PHP Warning:  Undefined variable $property_amenities in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 71
+[15-Jul-2025 09:00:24 UTC] PHP Warning:  Undefined variable $property_rooms in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 59
+[15-Jul-2025 09:00:24 UTC] PHP Warning:  Undefined variable $property_amenities in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 71
+[15-Jul-2025 09:00:27 UTC] PHP Warning:  Undefined variable $property_rooms in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 59
+[15-Jul-2025 09:00:27 UTC] PHP Warning:  Undefined variable $property_amenities in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 71
+[16-Jul-2025 02:32:55 UTC] PHP Warning:  Undefined array key "map_image" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 88
+[16-Jul-2025 02:32:55 UTC] PHP Warning:  Undefined array key "map_image" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 88
+[16-Jul-2025 02:55:17 UTC] PHP Warning:  Undefined variable $property_map in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 97
+[16-Jul-2025 03:00:35 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 03:05:35 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 03:20:06 UTC] PHP Warning:  Undefined array key "property_frontage_image" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 115
+[16-Jul-2025 03:20:06 UTC] PHP Warning:  Undefined array key "property_frontage_image" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 115
+[16-Jul-2025 03:20:22 UTC] PHP Warning:  Undefined array key "property_frontage_image" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 115
+[16-Jul-2025 03:20:22 UTC] PHP Warning:  Undefined array key "property_frontage_image" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 115
+[16-Jul-2025 03:20:50 UTC] PHP Warning:  Undefined array key "property_frontage_image" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 122
+[16-Jul-2025 03:20:50 UTC] PHP Warning:  Undefined array key "property_frontage_image" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 122
+[16-Jul-2025 03:22:20 UTC] PHP Warning:  Undefined array key "property_frontage_image" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 113
+[16-Jul-2025 03:22:20 UTC] PHP Warning:  Undefined array key "property_frontage_image" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 113
+[16-Jul-2025 03:22:20 UTC] PHP Warning:  Undefined array key "property_frontage_image" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 119
+[16-Jul-2025 03:22:20 UTC] PHP Warning:  Undefined array key "property_frontage_image" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 119
+[16-Jul-2025 03:22:57 UTC] PHP Warning:  Undefined variable $frontage_image_url in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 113
+[16-Jul-2025 03:22:57 UTC] PHP Warning:  Undefined array key "property_frontage_image" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 117
+[16-Jul-2025 03:22:57 UTC] PHP Warning:  Undefined array key "property_frontage_image" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 117
+[16-Jul-2025 03:23:54 UTC] PHP Warning:  Undefined variable $frontage_image_url in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 113
+[16-Jul-2025 03:24:07 UTC] PHP Warning:  Undefined variable $property_frontage_description in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 113
+[16-Jul-2025 03:24:26 UTC] PHP Warning:  Undefined variable $property_frontage_description in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 113
+[16-Jul-2025 03:46:24 UTC] PHP Warning:  Undefined array key "full" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 128
+[16-Jul-2025 03:46:24 UTC] PHP Warning:  Undefined array key "full" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 128
+[16-Jul-2025 03:49:23 UTC] PHP Warning:  Undefined array key "full" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 128
+[16-Jul-2025 03:49:23 UTC] PHP Warning:  Undefined array key "full" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 128
+[16-Jul-2025 03:49:25 UTC] PHP Warning:  Undefined array key "full" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 128
+[16-Jul-2025 03:49:25 UTC] PHP Warning:  Undefined array key "full" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 128
+[16-Jul-2025 03:52:59 UTC] PHP Warning:  Undefined array key "full" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 128
+[16-Jul-2025 03:52:59 UTC] PHP Warning:  Undefined array key "full" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 128
+[16-Jul-2025 05:22:13 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:22:13 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:22:13 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:22:13 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:23:28 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:23:28 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:23:28 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:23:28 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:24:07 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:24:07 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:24:07 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:24:07 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:24:16 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:24:16 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:24:16 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:24:16 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:24:18 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:24:18 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:24:18 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:24:18 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:24:45 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:24:45 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:24:45 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:24:45 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:24:52 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:24:52 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:24:52 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:24:52 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:25:14 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:25:14 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:25:14 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:25:14 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:25:22 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:25:22 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:25:22 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:25:22 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:25:30 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:25:30 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:25:30 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:25:30 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:26:34 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:26:34 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:26:34 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:26:34 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:27:28 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:27:28 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:27:28 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:27:28 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:27:47 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:27:47 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:27:47 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:27:47 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:27:52 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:27:52 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:27:52 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:27:52 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:29:52 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:29:52 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:29:52 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:29:52 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:30:21 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:30:21 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:30:21 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:30:21 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:30:33 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:30:33 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:30:33 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:30:33 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:31:03 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:31:03 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:31:03 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:31:03 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:31:59 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:31:59 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:31:59 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:31:59 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:32:00 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:32:00 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:32:00 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:32:00 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:33:08 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:33:08 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:33:08 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:33:08 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:34:14 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:34:14 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:34:14 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:34:15 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:35:57 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:35:57 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:35:57 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 05:35:57 UTC] PHP Warning:  Array to string conversion in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\formatting.php on line 1096
+[16-Jul-2025 07:13:01 UTC] PHP Warning:  Undefined variable $album in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 200
+[16-Jul-2025 07:13:01 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 200
+[16-Jul-2025 07:15:21 UTC] PHP Warning:  Undefined variable $album in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 204
+[16-Jul-2025 07:15:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 204
+[16-Jul-2025 14:40:42 UTC] PHP Warning:  Undefined array key "image_field" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 276
+[16-Jul-2025 14:40:42 UTC] PHP Warning:  Undefined array key "" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 276
+[16-Jul-2025 14:40:42 UTC] PHP Warning:  Undefined array key "image_field" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 276
+[16-Jul-2025 14:40:42 UTC] PHP Warning:  Undefined array key "" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 276
+[16-Jul-2025 14:40:42 UTC] PHP Warning:  Undefined array key "image_field" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 276
+[16-Jul-2025 14:40:42 UTC] PHP Warning:  Undefined array key "" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 276
+[16-Jul-2025 14:40:42 UTC] PHP Warning:  Undefined array key "image_field" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 276
+[16-Jul-2025 14:40:42 UTC] PHP Warning:  Undefined array key "" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-property.php on line 276
+[17-Jul-2025 01:05:01 UTC] PHP Warning:  file_put_contents(C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/litespeed/qc_curr_requestb73c728fe58b5493f98062cb5c10f14f): Failed to open stream: No such file or directory in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\plugins\litespeed-cache\src\cloud.cls.php on line 1370
+[17-Jul-2025 01:05:02 UTC] PHP Warning:  file_put_contents(C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/litespeed/qc_last_requestb73c728fe58b5493f98062cb5c10f14f): Failed to open stream: No such file or directory in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\plugins\litespeed-cache\src\cloud.cls.php on line 1506
+[17-Jul-2025 01:05:02 UTC] PHP Warning:  file_put_contents(C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/litespeed/qc_curr_requestb73c728fe58b5493f98062cb5c10f14f): Failed to open stream: No such file or directory in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\plugins\litespeed-cache\src\cloud.cls.php on line 1507
+[17-Jul-2025 01:05:06 UTC] PHP Warning:  file_put_contents(C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/litespeed/qc_curr_request508c75c8507a2ae5223dfd2faeb98122): Failed to open stream: No such file or directory in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\plugins\litespeed-cache\src\cloud.cls.php on line 1159
+[17-Jul-2025 01:17:06 UTC] PHP Warning:  file_put_contents(C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/litespeed/qc_curr_requesta866ed8e517026f38481d78becb1cff0): Failed to open stream: No such file or directory in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\plugins\litespeed-cache\src\cloud.cls.php on line 1370
+[17-Jul-2025 01:17:07 UTC] PHP Warning:  file_put_contents(C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/litespeed/qc_last_requesta866ed8e517026f38481d78becb1cff0): Failed to open stream: No such file or directory in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\plugins\litespeed-cache\src\cloud.cls.php on line 1506
+[17-Jul-2025 01:17:07 UTC] PHP Warning:  file_put_contents(C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/litespeed/qc_curr_requesta866ed8e517026f38481d78becb1cff0): Failed to open stream: No such file or directory in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\plugins\litespeed-cache\src\cloud.cls.php on line 1507
+[21-Jul-2025 02:10:21 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-includes\class-wp-customize-widgets.php on line 926
+[24-Jul-2025 09:42:12 UTC] PHP Warning:  file_put_contents(C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/litespeed/qc_curr_request508c75c8507a2ae5223dfd2faeb98122): Failed to open stream: No such file or directory in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\plugins\litespeed-cache\src\cloud.cls.php on line 1159
+[25-Jul-2025 01:21:04 UTC] PHP Warning:  file_put_contents(C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/litespeed/qc_curr_requestb73c728fe58b5493f98062cb5c10f14f): Failed to open stream: No such file or directory in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\plugins\litespeed-cache\src\cloud.cls.php on line 1370
+[25-Jul-2025 02:42:14 UTC] PHP Warning:  Undefined variable $default_categories in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\single-highlights.php on line 23
+[25-Jul-2025 02:47:46 UTC] Cron reschedule event error for hook: litespeed_task_lqip, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
+[25-Jul-2025 09:05:06 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\news-module\newsp-section.php on line 72
+[25-Jul-2025 09:05:47 UTC] PHP Warning:  Undefined variable $hero_title in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\themes\smdcheights\templates\news-module\newsp-section.php on line 11
+[25-Jul-2025 14:41:43 UTC] PHP Warning:  file_put_contents(C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/litespeed/qc_curr_requestb73c728fe58b5493f98062cb5c10f14f): Failed to open stream: No such file or directory in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\plugins\litespeed-cache\src\cloud.cls.php on line 1370
+[25-Jul-2025 14:41:51 UTC] PHP Warning:  file_put_contents(C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/litespeed/qc_last_requestb73c728fe58b5493f98062cb5c10f14f): Failed to open stream: No such file or directory in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\plugins\litespeed-cache\src\cloud.cls.php on line 1506
+[25-Jul-2025 14:41:51 UTC] PHP Warning:  file_put_contents(C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public/wp-content/litespeed/qc_curr_requestb73c728fe58b5493f98062cb5c10f14f): Failed to open stream: No such file or directory in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-content\plugins\litespeed-cache\src\cloud.cls.php on line 1507
+[25-Jul-2025 14:50:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WP_ENVIRONMENT_TYPE" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php:96
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-load.php(50): require_once()
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(13): require_once('C:\\Users\\lance....')
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#3 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 96
+[25-Jul-2025 14:50:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WP_ENVIRONMENT_TYPE" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php:96
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-load.php(50): require_once()
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-blog-header.php(13): require_once('C:\\Users\\lance....')
+#2 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\index.php(17): require('C:\\Users\\lance....')
+#3 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 96
+[25-Jul-2025 14:51:02 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WP_ENVIRONMENT_TYPE" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php:96
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-load.php(50): require_once()
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\lance....')
+#2 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 96
+[25-Jul-2025 14:51:02 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WP_ENVIRONMENT_TYPE" in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php:96
+Stack trace:
+#0 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-load.php(50): require_once()
+#1 C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\lance....')
+#2 {main}
+  thrown in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 96
+[25-Jul-2025 14:51:05 UTC] PHP Warning:  Constant WP_HOME already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 117
+[25-Jul-2025 14:51:05 UTC] PHP Warning:  Constant WP_SITEURL already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 118
+[25-Jul-2025 14:51:12 UTC] PHP Warning:  Constant WP_HOME already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 117
+[25-Jul-2025 14:51:12 UTC] PHP Warning:  Constant WP_SITEURL already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 118
+[25-Jul-2025 14:51:23 UTC] PHP Warning:  Constant WP_HOME already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 117
+[25-Jul-2025 14:51:23 UTC] PHP Warning:  Constant WP_SITEURL already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 118
+[25-Jul-2025 14:51:34 UTC] PHP Warning:  Constant WP_HOME already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 117
+[25-Jul-2025 14:51:34 UTC] PHP Warning:  Constant WP_SITEURL already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 118
+[25-Jul-2025 14:51:48 UTC] PHP Warning:  Constant WP_HOME already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 117
+[25-Jul-2025 14:51:48 UTC] PHP Warning:  Constant WP_SITEURL already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 118
+[25-Jul-2025 14:51:54 UTC] PHP Warning:  Constant WP_HOME already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 117
+[25-Jul-2025 14:51:54 UTC] PHP Warning:  Constant WP_SITEURL already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 118
+[25-Jul-2025 14:51:58 UTC] PHP Warning:  Constant WP_HOME already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 117
+[25-Jul-2025 14:51:58 UTC] PHP Warning:  Constant WP_SITEURL already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 118
+[25-Jul-2025 14:52:06 UTC] PHP Warning:  Constant WP_HOME already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 117
+[25-Jul-2025 14:52:06 UTC] PHP Warning:  Constant WP_SITEURL already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 118
+[25-Jul-2025 14:52:07 UTC] PHP Warning:  Constant WP_HOME already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 117
+[25-Jul-2025 14:52:07 UTC] PHP Warning:  Constant WP_SITEURL already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 118
+[25-Jul-2025 14:52:10 UTC] PHP Warning:  Constant WP_HOME already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 117
+[25-Jul-2025 14:52:10 UTC] PHP Warning:  Constant WP_SITEURL already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 118
+[25-Jul-2025 14:52:10 UTC] PHP Warning:  Constant WP_HOME already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 117
+[25-Jul-2025 14:52:10 UTC] PHP Warning:  Constant WP_SITEURL already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 118
+[25-Jul-2025 14:52:13 UTC] PHP Warning:  Constant WP_HOME already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 117
+[25-Jul-2025 14:52:13 UTC] PHP Warning:  Constant WP_SITEURL already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 118
+[25-Jul-2025 14:52:21 UTC] PHP Warning:  Constant WP_HOME already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 117
+[25-Jul-2025 14:52:21 UTC] PHP Warning:  Constant WP_SITEURL already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 118
+[25-Jul-2025 14:52:24 UTC] PHP Warning:  Constant WP_HOME already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 117
+[25-Jul-2025 14:52:24 UTC] PHP Warning:  Constant WP_SITEURL already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 118
+[25-Jul-2025 14:52:24 UTC] PHP Warning:  Constant WP_HOME already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 117
+[25-Jul-2025 14:52:24 UTC] PHP Warning:  Constant WP_SITEURL already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 118
+[25-Jul-2025 14:53:13 UTC] PHP Warning:  Constant WP_HOME already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 117
+[25-Jul-2025 14:53:13 UTC] PHP Warning:  Constant WP_SITEURL already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 118
+[25-Jul-2025 14:53:14 UTC] PHP Warning:  Constant WP_HOME already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 117
+[25-Jul-2025 14:53:14 UTC] PHP Warning:  Constant WP_SITEURL already defined in C:\Users\lance.tonacao\Local Sites\smdc-heights\app\public\wp-config.php on line 118
